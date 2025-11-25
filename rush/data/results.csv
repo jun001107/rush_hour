@@ -1,0 +1,6 @@
+participant_email,puzzle_id,max_moves,player_moves,time_taken_seconds
+junghoon.cho@mail.mcgill.ca,forty-01,9,9,13
+junghoon.cho@mail.mcgill.ca,forty-09,15,21,50
+junghoon.cho@mail.mcgill.ca,forty-03,16,19,64
+junghoon.cho@mail.mcgill.ca,forty-14,18,20,49
+junghoon.cho@mail.mcgill.ca,forty-12,20,28,42

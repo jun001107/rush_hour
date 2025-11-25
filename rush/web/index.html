@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Rush Hour Survey</title>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.6.1/p5.min.js"></script>
+        <link rel="stylesheet" type="text/css" href="style.css?bust=4">
+    </head>
+    <body>
+        <div id="app">
+            <div id="startScreen" class="panel">
+                <h1>Rush Hour Survey</h1>
+                <p class="lede">Please enter your email to begin.</p>
+                <div class="input-row">
+                    <label for="participantEmail">Email</label>
+                    <input type="email" id="participantEmail" placeholder="name@example.com" autocomplete="email">
+                </div>
+                <button id="startButton">Start</button>
+                <div id="startError" class="error hidden"></div>
+                <div id="startStatus" class="status">Loading puzzles…</div>
+            </div>
+
+            <div id="gameScreen" class="hidden">
+                <div class="hud" id="hud">
+                    <div class="hud-item">
+                        <div class="label">Participant</div>
+                        <div class="value small" id="participantEmailDisplay">—</div>
+                    </div>
+                    <div class="hud-item">
+                        <div class="label">Level</div>
+                        <div class="value" id="levelLabel">—</div>
+                    </div>
+                    <div class="hud-item">
+                        <div class="label">Progress</div>
+                        <div class="value" id="puzzleProgress">0 / 0</div>
+                    </div>
+                    <div class="hud-item">
+                        <div class="label">Timer</div>
+                        <div class="value timer" id="timerDisplay">00:00</div>
+                    </div>
+                    <div class="hud-item">
+                        <div class="label">Moves</div>
+                        <div class="value"><span id="numMoves">0</span> <span class="muted" id="movesRequired"></span></div>
+                    </div>
+                </div>
+                <div id="gameStatus" class="status"></div>
+                <div id="view"></div>
+                <div class="footer">
+                    <div class="info">
+                        <div class="label">Controls</div>
+                        <div class="value small">Drag pieces to move. Use undo/reset if needed.</div>
+                    </div>
+                    <div class="buttons">
+                        <button id="resetButton">Reset</button>
+                        <button id="undoButton">Undo</button>
+                        <button id="randomButton" class="secondary">Random</button>
+                    </div>
+                </div>
+            </div>
+
+            <div id="completeScreen" class="panel hidden">
+                <h2>Survey complete</h2>
+                <p>Thank you for playing. Your responses have been recorded.</p>
+                <button id="restartButton">Play again</button>
+            </div>
+        </div>
+        <script src="app.js?bust=4"></script>
+    </body>
+</html>
