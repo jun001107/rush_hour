@@ -1,0 +1,5748 @@
+[
+  {
+    "name": 1,
+    "exit": [3, 6],
+    "min_num_moves": 2,
+    "board": [
+      [null, null, null, null, null, null],
+      [null, null, "B", null, null, null],
+      ["R", "R", "B", null, null, null],
+      [null, null, null, null, null, null],
+      [null, null, null, null, null, null],
+      [null, null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 2,
+    "exit": [3, 6],
+    "min_num_moves": 2,
+    "board": [
+      [null, null, null, null, null, null],
+      [null, null, null, null, null, "B"],
+      ["R", "R", null, null, null, "B"],
+      [null, null, null, null, null, null],
+      [null, null, null, null, null, null],
+      [null, null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 3,
+    "exit": [3, 6],
+    "min_num_moves": 2,
+    "board": [
+      [null, null, "B", null, null, null],
+      [null, null, "B", null, null, null],
+      ["R", "R", "B", null, null, null],
+      [null, null, null, null, null, null],
+      [null, null, null, null, null, null],
+      [null, null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 4,
+    "exit": [3, 6],
+    "min_num_moves": 2,
+    "board": [
+      [null, null, null, null, null, null],
+      [null, null, null, "B", null, null],
+      ["R", "R", null, "B", null, null],
+      [null, null, null, null, null, null],
+      [null, null, null, null, null, null],
+      [null, null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 5,
+    "exit": [3, 6],
+    "min_num_moves": 2,
+    "board": [
+      [null, null, null, null, "B", null],
+      [null, null, null, null, "B", null],
+      ["R", "R", null, null, "B", null],
+      [null, null, null, null, null, null],
+      [null, null, null, null, null, null],
+      [null, null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 6,
+    "exit": [3, 6],
+    "min_num_moves": 2,
+    "board": [
+      [null, null, null, "B", null, null],
+      [null, null, null, "B", null, null],
+      ["R", "R", null, "B", null, null],
+      [null, null, null, null, null, null],
+      [null, null, null, null, null, null],
+      [null, null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 7,
+    "exit": [3, 6],
+    "min_num_moves": 2,
+    "board": [
+      [null, null, null, null, null, "B"],
+      [null, null, null, null, null, "B"],
+      ["R", "R", null, null, null, "B"],
+      [null, null, null, null, null, null],
+      [null, null, null, null, null, null],
+      [null, null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 8,
+    "exit": [3, 6],
+    "min_num_moves": 2,
+    "board": [
+      [null, null, null, null, null, null],
+      [null, null, null, null, "B", null],
+      ["R", "R", null, null, "B", null],
+      [null, null, null, null, null, null],
+      [null, null, null, null, null, null],
+      [null, null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 9,
+    "exit": [3, 6],
+    "min_num_moves": 3,
+    "board": [
+      [null, null, null, null, null, null],
+      [null, null, null, "B", "B", "B"],
+      ["R", "R", null, null, null, "D"],
+      [null, null, null, null, null, "D"],
+      [null, null, null, "C", "C", "C"],
+      [null, null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 10,
+    "exit": [3, 6],
+    "min_num_moves": 3,
+    "board": [
+      [null, null, null, null, "B", null],
+      [null, null, null, null, "B", "C"],
+      ["R", "R", null, null, "B", "C"],
+      [null, null, null, null, null, null],
+      [null, null, null, null, null, null],
+      [null, null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 11,
+    "exit": [3, 6],
+    "min_num_moves": 3,
+    "board": [
+      [null, null, null, "B", "B", "B"],
+      [null, null, null, null, null, "C"],
+      ["R", "R", null, null, null, "C"],
+      [null, null, null, null, null, "D"],
+      [null, null, null, null, null, "D"],
+      [null, null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 12,
+    "exit": [3, 6],
+    "min_num_moves": 3,
+    "board": [
+      [null, "B", "B", null, null, null],
+      [null, null, "D", null, null, null],
+      ["R", "R", "D", null, null, null],
+      [null, "C", "C", null, null, null],
+      [null, null, null, null, null, null],
+      [null, null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 13,
+    "exit": [3, 6],
+    "min_num_moves": 3,
+    "board": [
+      [null, null, null, "B", "B", "B"],
+      [null, null, null, null, null, "D"],
+      ["R", "R", null, null, null, "D"],
+      [null, null, null, null, "C", "C"],
+      [null, null, null, null, null, null],
+      [null, null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 14,
+    "exit": [3, 6],
+    "min_num_moves": 3,
+    "board": [
+      [null, null, "B", "B", null, null],
+      [null, null, null, "D", null, null],
+      ["R", "R", null, "D", null, null],
+      [null, null, null, null, null, null],
+      [null, null, "C", "C", null, null],
+      [null, null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 15,
+    "exit": [3, 6],
+    "min_num_moves": 3,
+    "board": [
+      ["B", "B", "B", null, null, null],
+      [null, null, "D", null, null, null],
+      ["R", "R", "D", null, null, null],
+      [null, null, null, null, null, null],
+      [null, "C", "C", null, null, null],
+      [null, null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 16,
+    "exit": [3, 6],
+    "min_num_moves": 3,
+    "board": [
+      [null, "B", "B", null, null, null],
+      [null, null, "D", null, null, null],
+      ["R", "R", "D", null, null, null],
+      ["C", "C", "C", null, null, null],
+      [null, null, null, null, null, null],
+      [null, null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 17,
+    "exit": [3, 6],
+    "min_num_moves": 3,
+    "board": [
+      [null, null, null, null, null, "C"],
+      [null, null, null, null, null, "C"],
+      ["R", "R", null, null, null, "C"],
+      [null, null, null, null, null, null],
+      [null, null, null, null, "B", "B"],
+      [null, null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 18,
+    "exit": [3, 6],
+    "min_num_moves": 3,
+    "board": [
+      [null, null, "B", "B", "B", null],
+      [null, null, null, null, "C", null],
+      ["R", "R", null, null, "C", null],
+      [null, null, null, null, "D", null],
+      [null, null, null, null, "D", null],
+      [null, null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 19,
+    "exit": [3, 6],
+    "min_num_moves": 3,
+    "board": [
+      [null, null, "B", "B", "B", null],
+      [null, null, null, null, "C", null],
+      ["R", "R", null, null, "C", null],
+      [null, null, null, null, "D", null],
+      [null, null, null, null, "D", null],
+      [null, null, null, null, "D", null]
+    ]
+  },
+  {
+    "name": 20,
+    "exit": [3, 6],
+    "min_num_moves": 3,
+    "board": [
+      [null, null, null, null, null, null],
+      [null, null, "B", "B", null, null],
+      ["R", "R", null, "C", null, null],
+      [null, null, null, "C", null, null],
+      [null, null, null, "D", null, null],
+      [null, null, null, "D", null, null]
+    ]
+  },
+  {
+    "name": 21,
+    "exit": [3, 6],
+    "min_num_moves": 3,
+    "board": [
+      [null, "B", "B", "B", null, null],
+      [null, null, null, "D", null, null],
+      ["R", "R", null, "D", null, null],
+      [null, null, "C", "C", null, null],
+      [null, null, null, null, null, null],
+      [null, null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 22,
+    "exit": [3, 6],
+    "min_num_moves": 3,
+    "board": [
+      [null, null, "B", null, null, null],
+      [null, null, "B", null, "C", null],
+      ["R", "R", "B", null, "C", null],
+      [null, null, null, null, null, null],
+      [null, null, null, null, null, null],
+      [null, null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 23,
+    "exit": [3, 6],
+    "min_num_moves": 3,
+    "board": [
+      [null, null, null, "C", null, null],
+      [null, null, null, "C", null, null],
+      ["R", "R", null, "C", null, null],
+      [null, null, null, null, null, null],
+      [null, null, null, null, null, null],
+      [null, null, "B", "B", null, null]
+    ]
+  },
+  {
+    "name": 24,
+    "exit": [3, 6],
+    "min_num_moves": 3,
+    "board": [
+      [null, null, null, null, null, "C"],
+      [null, null, null, null, null, "C"],
+      ["R", "R", null, null, null, "C"],
+      [null, null, null, "B", "B", "B"],
+      [null, null, null, null, null, null],
+      [null, null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 25,
+    "exit": [3, 6],
+    "min_num_moves": 3,
+    "board": [
+      [null, null, null, null, null, "C"],
+      [null, null, null, null, null, "C"],
+      ["R", "R", null, null, null, "C"],
+      [null, null, null, null, "B", "B"],
+      [null, null, null, null, null, null],
+      [null, null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 26,
+    "exit": [3, 6],
+    "min_num_moves": 3,
+    "board": [
+      [null, null, null, null, null, null],
+      [null, null, null, "B", null, "C"],
+      ["R", "R", null, "B", null, "C"],
+      [null, null, null, null, null, null],
+      [null, null, null, null, null, null],
+      [null, null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 27,
+    "exit": [3, 6],
+    "min_num_moves": 3,
+    "board": [
+      [null, "B", "B", "B", null, null],
+      [null, null, null, "D", null, null],
+      ["R", "R", null, "D", null, null],
+      [null, null, null, null, null, null],
+      [null, null, "C", "C", null, null],
+      [null, null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 28,
+    "exit": [3, 6],
+    "min_num_moves": 3,
+    "board": [
+      [null, null, null, null, null, null],
+      [null, null, "B", null, "C", null],
+      ["R", "R", "B", null, "C", null],
+      [null, null, null, null, null, null],
+      [null, null, null, null, null, null],
+      [null, null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 29,
+    "exit": [3, 6],
+    "min_num_moves": 3,
+    "board": [
+      ["B", "B", "B", null, null, null],
+      [null, null, "C", null, null, null],
+      ["R", "R", "C", null, null, null],
+      [null, null, "D", null, null, null],
+      [null, null, "D", null, null, null],
+      [null, null, "D", null, null, null]
+    ]
+  },
+  {
+    "name": 30,
+    "exit": [3, 6],
+    "min_num_moves": 3,
+    "board": [
+      [null, null, "B", "B", null, null],
+      [null, null, null, "D", null, null],
+      ["R", "R", null, "D", null, null],
+      [null, null, null, null, null, null],
+      [null, "C", "C", "C", null, null],
+      [null, null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 31,
+    "exit": [3, 6],
+    "min_num_moves": 3,
+    "board": [
+      [null, null, null, null, "C", null],
+      [null, null, null, null, "C", null],
+      ["R", "R", null, null, "C", null],
+      [null, null, null, null, null, null],
+      [null, null, null, null, null, null],
+      [null, null, "B", "B", "B", null]
+    ]
+  },
+  {
+    "name": 32,
+    "exit": [3, 6],
+    "min_num_moves": 3,
+    "board": [
+      [null, "B", "B", "B", null, null],
+      [null, null, null, "C", null, null],
+      ["R", "R", null, "C", null, null],
+      [null, null, null, "D", null, null],
+      [null, null, null, "D", null, null],
+      [null, null, null, "D", null, null]
+    ]
+  },
+  {
+    "name": 33,
+    "exit": [3, 6],
+    "min_num_moves": 3,
+    "board": [
+      [null, null, null, "C", null, null],
+      [null, null, null, "C", null, null],
+      ["R", "R", null, "C", null, null],
+      [null, "B", "B", "B", null, null],
+      [null, null, null, null, null, null],
+      [null, null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 34,
+    "exit": [3, 6],
+    "min_num_moves": 4,
+    "board": [
+      ["F", "B", "B", "C", "C", null],
+      ["F", null, "G", null, null, null],
+      ["R", "R", "G", null, null, null],
+      [null, "D", "D", null, null, null],
+      ["E", "E", "E", null, null, null],
+      [null, null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 35,
+    "exit": [3, 6],
+    "min_num_moves": 4,
+    "board": [
+      [null, null, "B", "B", null, null],
+      [null, null, "C", "C", null, null],
+      ["R", "R", null, "G", null, null],
+      [null, "F", null, "G", null, null],
+      [null, "F", "D", "D", "E", "E"],
+      [null, "F", null, null, null, null]
+    ]
+  },
+  {
+    "name": 36,
+    "exit": [3, 6],
+    "min_num_moves": 4,
+    "board": [
+      [null, "B", "B", "C", "C", null],
+      [null, null, null, null, "D", null],
+      ["R", "R", null, null, "D", null],
+      [null, null, null, null, "E", null],
+      [null, null, null, null, "E", null],
+      [null, null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 37,
+    "exit": [3, 6],
+    "min_num_moves": 4,
+    "board": [
+      ["B", "B", "C", "C", "F", null],
+      [null, null, "D", null, "F", null],
+      ["R", "R", "D", null, null, null],
+      [null, null, "E", null, null, null],
+      [null, null, "E", null, null, null],
+      [null, null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 38,
+    "exit": [3, 6],
+    "min_num_moves": 4,
+    "board": [
+      [null, null, null, null, null, "D"],
+      [null, null, null, null, "C", "D"],
+      ["R", "R", null, null, "C", "D"],
+      [null, null, null, null, null, null],
+      [null, null, null, null, "B", "B"],
+      [null, null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 39,
+    "exit": [3, 6],
+    "min_num_moves": 4,
+    "board": [
+      [null, null, null, null, null, null],
+      [null, null, "B", "C", null, "D"],
+      ["R", "R", "B", "C", null, "D"],
+      [null, null, null, null, null, null],
+      [null, null, null, null, null, null],
+      [null, null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 40,
+    "exit": [3, 6],
+    "min_num_moves": 4,
+    "board": [
+      [null, null, null, null, null, null],
+      [null, null, "B", "B", "B", "E"],
+      ["R", "R", null, null, "D", "E"],
+      [null, null, null, null, "D", null],
+      [null, null, "C", "C", "C", null],
+      [null, null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 41,
+    "exit": [3, 6],
+    "min_num_moves": 4,
+    "board": [
+      [null, null, "B", "B", "C", "C"],
+      [null, null, null, null, null, "F"],
+      ["R", "R", null, null, null, "F"],
+      [null, null, "D", "D", "E", "E"],
+      [null, null, null, null, null, null],
+      [null, null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 42,
+    "exit": [3, 6],
+    "min_num_moves": 4,
+    "board": [
+      [null, null, null, null, null, "D"],
+      [null, null, null, "C", null, "D"],
+      ["R", "R", null, "C", null, "D"],
+      [null, null, null, null, null, null],
+      [null, null, null, null, null, null],
+      [null, null, null, null, "B", "B"]
+    ]
+  },
+  {
+    "name": 43,
+    "exit": [3, 6],
+    "min_num_moves": 4,
+    "board": [
+      ["B", "B", "B", null, null, null],
+      ["C", "C", "C", null, null, null],
+      ["R", "R", "G", null, null, null],
+      ["F", null, "G", null, null, null],
+      ["F", "D", "D", "E", "E", null],
+      ["F", null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 44,
+    "exit": [3, 6],
+    "min_num_moves": 4,
+    "board": [
+      [null, "C", "B", "B", null, "F"],
+      [null, "C", null, "D", null, "F"],
+      ["R", "R", null, "D", null, null],
+      [null, null, null, "E", null, null],
+      [null, null, null, "E", null, null],
+      [null, null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 45,
+    "exit": [3, 6],
+    "min_num_moves": 4,
+    "board": [
+      [null, null, null, null, null, "D"],
+      [null, null, null, null, null, "D"],
+      ["R", "R", null, null, null, "D"],
+      [null, null, null, "B", "B", "B"],
+      [null, null, null, null, null, null],
+      [null, null, null, null, "C", "C"]
+    ]
+  },
+  {
+    "name": 46,
+    "exit": [3, 6],
+    "min_num_moves": 4,
+    "board": [
+      [null, "B", "B", "B", null, null],
+      [null, null, null, "D", null, "E"],
+      ["R", "R", null, "D", null, "E"],
+      [null, null, "C", "C", null, null],
+      [null, null, null, null, null, null],
+      [null, null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 47,
+    "exit": [3, 6],
+    "min_num_moves": 4,
+    "board": [
+      [null, null, "C", null, "B", "B"],
+      [null, null, "C", null, null, "D"],
+      ["R", "R", "C", null, null, "D"],
+      [null, null, null, null, null, "E"],
+      [null, null, null, null, null, "E"],
+      [null, null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 48,
+    "exit": [3, 6],
+    "min_num_moves": 4,
+    "board": [
+      [null, null, null, "E", null, null],
+      ["B", "B", "B", "E", null, null],
+      ["R", "R", "D", "E", null, null],
+      [null, null, "D", null, null, null],
+      [null, "C", "C", null, null, null],
+      [null, null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 49,
+    "exit": [3, 6],
+    "min_num_moves": 4,
+    "board": [
+      [null, null, null, null, "D", null],
+      [null, null, null, "C", "D", null],
+      ["R", "R", null, "C", "D", null],
+      [null, null, null, null, null, null],
+      [null, null, "B", "B", "B", null],
+      [null, null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 50,
+    "exit": [3, 6],
+    "min_num_moves": 4,
+    "board": [
+      [null, null, null, null, null, null],
+      [null, "B", "B", "E", null, null],
+      ["R", "R", "D", "E", null, null],
+      [null, null, "D", null, null, null],
+      ["C", "C", "C", null, null, null],
+      [null, null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 51,
+    "exit": [3, 6],
+    "min_num_moves": 4,
+    "board": [
+      ["B", "B", "B", null, null, null],
+      [null, "C", "C", null, null, null],
+      ["R", "R", "G", null, null, null],
+      ["F", null, "G", null, null, null],
+      ["F", "D", "D", "E", "E", null],
+      ["F", null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 52,
+    "exit": [3, 6],
+    "min_num_moves": 4,
+    "board": [
+      [null, null, "D", "B", "B", "B"],
+      [null, null, "D", null, null, "F"],
+      [null, null, "D", "R", "R", "F"],
+      [null, null, "E", "C", "C", "C"],
+      [null, null, "E", null, null, null],
+      [null, null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 53,
+    "exit": [3, 6],
+    "min_num_moves": 4,
+    "board": [
+      [null, null, "C", null, null, null],
+      [null, null, "C", null, "D", null],
+      ["R", "R", "C", null, "D", null],
+      [null, null, null, null, null, null],
+      [null, null, null, null, null, null],
+      [null, "B", "B", null, null, null]
+    ]
+  },
+  {
+    "name": 54,
+    "exit": [3, 6],
+    "min_num_moves": 4,
+    "board": [
+      [null, "B", "B", null, null, null],
+      [null, null, "C", "E", null, null],
+      ["R", "R", "C", "E", null, null],
+      [null, null, "D", null, null, null],
+      [null, null, "D", null, null, null],
+      [null, null, "D", null, null, null]
+    ]
+  },
+  {
+    "name": 55,
+    "exit": [3, 6],
+    "min_num_moves": 4,
+    "board": [
+      [null, "B", "B", null, null, null],
+      [null, null, "D", null, null, "E"],
+      ["R", "R", "D", null, null, "E"],
+      ["C", "C", "C", null, null, null],
+      [null, null, null, null, null, null],
+      [null, null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 56,
+    "exit": [3, 6],
+    "min_num_moves": 4,
+    "board": [
+      [null, null, null, "C", null, null],
+      [null, null, "B", "C", null, "D"],
+      ["R", "R", "B", "C", null, "D"],
+      [null, null, null, null, null, null],
+      [null, null, null, null, null, null],
+      [null, null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 57,
+    "exit": [3, 6],
+    "min_num_moves": 4,
+    "board": [
+      [null, null, "E", "B", "B", "B"],
+      [null, null, "E", null, null, "F"],
+      [null, null, "E", "R", "R", "F"],
+      [null, "C", "C", "C", "D", "D"],
+      [null, null, null, null, null, null],
+      [null, null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 58,
+    "exit": [3, 6],
+    "min_num_moves": 4,
+    "board": [
+      [null, null, "E", null, null, null],
+      [null, null, "E", "B", "B", "B"],
+      [null, null, "E", "R", "R", "F"],
+      [null, null, null, null, null, "F"],
+      [null, "C", "C", "C", "D", "D"],
+      [null, null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 59,
+    "exit": [3, 6],
+    "min_num_moves": 5,
+    "board": [
+      [null, null, "B", "B", "B", null],
+      [null, null, null, "C", "C", "G"],
+      ["R", "R", null, null, "F", "G"],
+      [null, null, null, null, "F", null],
+      [null, "D", "D", "E", "E", null],
+      [null, null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 60,
+    "exit": [3, 6],
+    "min_num_moves": 5,
+    "board": [
+      ["G", "B", "B", "C", "C", "C"],
+      ["G", null, null, null, null, "H"],
+      ["G", "R", "R", null, null, "H"],
+      [null, "D", "D", "D", "E", "E"],
+      [null, null, null, null, "F", "F"],
+      [null, null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 61,
+    "exit": [3, 6],
+    "min_num_moves": 5,
+    "board": [
+      [null, null, null, null, "B", "B"],
+      [null, null, null, "C", "C", "C"],
+      ["R", "R", null, "D", null, "E"],
+      [null, null, null, "D", null, "E"],
+      [null, null, null, null, null, "F"],
+      [null, null, null, null, null, "F"]
+    ]
+  },
+  {
+    "name": 62,
+    "exit": [3, 6],
+    "min_num_moves": 5,
+    "board": [
+      [null, "B", "B", "B", "C", "C"],
+      [null, null, "F", null, "D", "D"],
+      [null, null, "F", "R", "R", "H"],
+      [null, null, "G", null, null, "H"],
+      [null, null, "G", "E", "E", "E"],
+      [null, null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 63,
+    "exit": [3, 6],
+    "min_num_moves": 5,
+    "board": [
+      ["B", "B", "C", "C", "H", null],
+      ["E", null, null, "G", "H", null],
+      ["E", "R", "R", "G", null, null],
+      ["E", null, null, null, null, null],
+      ["F", null, "D", "D", "D", null],
+      ["F", null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 64,
+    "exit": [3, 6],
+    "min_num_moves": 5,
+    "board": [
+      [null, null, null, null, null, "D"],
+      [null, null, null, null, null, "D"],
+      [null, null, "R", "R", null, "E"],
+      [null, null, null, "C", null, "E"],
+      [null, null, null, "C", "B", "B"],
+      [null, null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 65,
+    "exit": [3, 6],
+    "min_num_moves": 5,
+    "board": [
+      [null, null, "C", "B", "B", "B"],
+      [null, null, "C", null, null, "E"],
+      [null, null, "C", "R", "R", "E"],
+      [null, null, "D", null, null, "F"],
+      [null, null, "D", null, null, "F"],
+      [null, null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 66,
+    "exit": [3, 6],
+    "min_num_moves": 5,
+    "board": [
+      [null, null, "B", "B", null, null],
+      [null, null, "C", "D", "F", null],
+      ["R", "R", "C", "D", "F", null],
+      [null, null, "C", "E", null, null],
+      [null, null, null, "E", null, null],
+      [null, null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 67,
+    "exit": [3, 6],
+    "min_num_moves": 5,
+    "board": [
+      ["B", "B", "C", "C", "C", null],
+      [null, null, null, "G", null, null],
+      ["R", "R", null, "G", null, null],
+      [null, "F", "D", "D", "D", null],
+      [null, "F", null, null, null, null],
+      ["E", "E", "E", null, null, null]
+    ]
+  },
+  {
+    "name": 68,
+    "exit": [3, 6],
+    "min_num_moves": 5,
+    "board": [
+      [null, null, null, "B", "B", "B"],
+      [null, "C", "C", "C", null, "G"],
+      ["R", "R", null, "F", null, "G"],
+      [null, null, null, "F", null, null],
+      ["D", "D", "E", "E", null, null],
+      [null, null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 69,
+    "exit": [3, 6],
+    "min_num_moves": 5,
+    "board": [
+      [null, null, "B", "B", "B", null],
+      [null, null, null, "D", "E", null],
+      ["R", "R", null, "D", "E", null],
+      [null, null, null, "D", "F", null],
+      [null, "C", "C", "C", "F", null],
+      [null, null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 70,
+    "exit": [3, 6],
+    "min_num_moves": 5,
+    "board": [
+      [null, null, "B", "B", null, "F"],
+      [null, null, null, "D", "E", "F"],
+      ["R", "R", null, "D", "E", "F"],
+      [null, null, "C", "C", null, null],
+      [null, null, null, null, null, null],
+      [null, null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 71,
+    "exit": [3, 6],
+    "min_num_moves": 5,
+    "board": [
+      [null, null, null, null, null, "F"],
+      [null, null, null, "B", "B", "F"],
+      ["R", "R", null, null, "E", "F"],
+      [null, null, null, null, "E", null],
+      [null, null, null, "C", "C", null],
+      [null, null, null, null, "D", "D"]
+    ]
+  },
+  {
+    "name": 72,
+    "exit": [3, 6],
+    "min_num_moves": 5,
+    "board": [
+      ["B", "B", "B", null, null, "F"],
+      ["C", "C", "C", null, null, "F"],
+      ["R", "R", "D", null, null, null],
+      [null, null, "D", null, null, null],
+      [null, null, "E", null, null, null],
+      [null, null, "E", null, null, null]
+    ]
+  },
+  {
+    "name": 73,
+    "exit": [3, 6],
+    "min_num_moves": 5,
+    "board": [
+      ["E", null, "B", "B", "B", null],
+      ["E", null, null, "F", "G", null],
+      ["R", "R", null, "F", "G", null],
+      [null, null, null, null, null, null],
+      ["C", "C", "D", "D", null, null],
+      [null, null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 74,
+    "exit": [3, 6],
+    "min_num_moves": 5,
+    "board": [
+      [null, null, null, null, "D", "E"],
+      [null, null, null, null, "D", "E"],
+      ["R", "R", null, null, "D", "E"],
+      [null, null, null, null, null, null],
+      [null, "B", "B", "C", "C", null],
+      [null, null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 75,
+    "exit": [3, 6],
+    "min_num_moves": 5,
+    "board": [
+      [null, "B", "B", "B", "E", "F"],
+      [null, null, null, "D", "E", "F"],
+      ["R", "R", null, "D", "E", "F"],
+      [null, null, null, null, null, null],
+      [null, "C", "C", "C", null, null],
+      [null, null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 76,
+    "exit": [3, 6],
+    "min_num_moves": 5,
+    "board": [
+      [null, null, "B", "B", "B", "F"],
+      [null, null, null, null, "E", "F"],
+      ["R", "R", null, null, "E", "F"],
+      [null, null, null, null, "C", "C"],
+      [null, null, null, "D", "D", null],
+      [null, null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 77,
+    "exit": [3, 6],
+    "min_num_moves": 5,
+    "board": [
+      [null, "B", "B", "B", "C", "C"],
+      [null, null, "D", null, null, "E"],
+      ["R", "R", "D", null, null, "E"],
+      [null, null, "D", null, null, "F"],
+      [null, null, null, null, null, "F"],
+      [null, null, null, null, null, "F"]
+    ]
+  },
+  {
+    "name": 78,
+    "exit": [3, 6],
+    "min_num_moves": 5,
+    "board": [
+      [null, null, null, null, null, "F"],
+      [null, "B", "B", "B", null, "F"],
+      ["R", "R", null, "E", null, "F"],
+      [null, null, null, "E", null, null],
+      [null, "C", "C", "C", null, null],
+      [null, null, null, null, "D", "D"]
+    ]
+  },
+  {
+    "name": 79,
+    "exit": [3, 6],
+    "min_num_moves": 5,
+    "board": [
+      [null, null, "F", "B", "B", "B"],
+      ["E", null, "F", null, null, "G"],
+      ["E", null, "F", "R", "R", "G"],
+      ["E", "C", "C", "C", "D", "D"],
+      [null, null, null, null, null, null],
+      [null, null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 80,
+    "exit": [3, 6],
+    "min_num_moves": 5,
+    "board": [
+      ["F", "B", "B", "B", null, null],
+      ["F", null, "C", "C", null, null],
+      ["F", "R", "R", "H", null, null],
+      [null, "G", null, "H", null, null],
+      [null, "G", "D", "D", "E", "E"],
+      [null, null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 81,
+    "exit": [3, 6],
+    "min_num_moves": 5,
+    "board": [
+      [null, null, "D", null, "B", "B"],
+      [null, null, "D", null, null, "E"],
+      ["R", "R", "D", null, null, "E"],
+      [null, null, null, null, null, "F"],
+      [null, "C", "C", null, null, "F"],
+      [null, null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 82,
+    "exit": [3, 6],
+    "min_num_moves": 5,
+    "board": [
+      [null, "B", "B", "B", "C", "C"],
+      [null, null, "F", null, "D", "D"],
+      [null, null, "F", "R", "R", "H"],
+      [null, null, "F", null, null, "H"],
+      [null, null, "G", "E", "E", "E"],
+      [null, null, "G", null, null, null]
+    ]
+  },
+  {
+    "name": 83,
+    "exit": [3, 6],
+    "min_num_moves": 6,
+    "board": [
+      [null, null, "B", "B", "B", null],
+      [null, null, "F", null, "G", null],
+      ["R", "R", "F", null, "G", null],
+      [null, "E", "C", "C", "D", "D"],
+      [null, "E", null, null, null, null],
+      [null, null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 84,
+    "exit": [3, 6],
+    "min_num_moves": 6,
+    "board": [
+      [null, null, "D", null, null, null],
+      [null, null, "D", null, null, "E"],
+      ["R", "R", "D", null, null, "E"],
+      [null, "B", "B", null, null, null],
+      [null, null, null, null, null, "F"],
+      ["C", "C", "C", null, null, "F"]
+    ]
+  },
+  {
+    "name": 85,
+    "exit": [3, 6],
+    "min_num_moves": 6,
+    "board": [
+      [null, "H", "B", "B", "C", "C"],
+      [null, "H", null, null, "K", null],
+      [null, "I", "R", "R", "K", null],
+      ["G", "I", "J", "D", "D", null],
+      ["G", "I", "J", null, null, null],
+      ["G", "E", "E", "F", "F", "F"]
+    ]
+  },
+  {
+    "name": 86,
+    "exit": [3, 6],
+    "min_num_moves": 6,
+    "board": [
+      [null, "B", "B", "B", "G", "H"],
+      ["C", "C", "D", "D", "G", "H"],
+      ["R", "R", null, "E", "G", null],
+      [null, null, null, "E", null, null],
+      [null, null, null, "F", null, null],
+      [null, null, null, "F", null, null]
+    ]
+  },
+  {
+    "name": 87,
+    "exit": [3, 6],
+    "min_num_moves": 6,
+    "board": [
+      ["H", "B", "B", "C", "C", "C"],
+      ["H", "D", "D", null, null, "L"],
+      ["H", "R", "R", null, null, "L"],
+      ["I", null, "K", "E", "E", "E"],
+      ["I", "J", "K", null, null, null],
+      [null, "J", "F", "F", "G", "G"]
+    ]
+  },
+  {
+    "name": 88,
+    "exit": [3, 6],
+    "min_num_moves": 6,
+    "board": [
+      [null, null, null, null, "F", null],
+      [null, null, null, "E", "F", null],
+      ["R", "R", null, "E", "F", null],
+      [null, null, "B", "B", "B", null],
+      [null, null, "C", "C", "C", null],
+      [null, null, "D", "D", "D", null]
+    ]
+  },
+  {
+    "name": 89,
+    "exit": [3, 6],
+    "min_num_moves": 6,
+    "board": [
+      [null, "B", "B", "B", null, "G"],
+      [null, null, "C", "C", null, "G"],
+      ["R", "R", "D", "E", null, "G"],
+      [null, null, "D", "E", null, null],
+      [null, null, "D", "F", null, null],
+      [null, null, null, "F", null, null]
+    ]
+  },
+  {
+    "name": 90,
+    "exit": [3, 6],
+    "min_num_moves": 6,
+    "board": [
+      [null, "B", "B", "C", "C", null],
+      [null, null, "F", "G", "H", null],
+      ["R", "R", "F", "G", "H", null],
+      ["E", null, "D", "D", "H", null],
+      ["E", null, null, null, null, null],
+      ["E", null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 91,
+    "exit": [3, 6],
+    "min_num_moves": 6,
+    "board": [
+      ["B", "B", "B", "H", null, null],
+      ["C", "C", "C", "H", null, null],
+      ["R", "R", "G", null, null, null],
+      ["F", null, "G", null, null, null],
+      ["F", "D", "D", "E", "E", null],
+      ["F", null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 92,
+    "exit": [3, 6],
+    "min_num_moves": 6,
+    "board": [
+      ["F", "B", "B", "C", "C", "C"],
+      ["F", null, "H", null, null, "K"],
+      ["G", null, "H", "R", "R", "K"],
+      ["G", null, "I", "D", "D", "D"],
+      [null, null, "I", "J", null, null],
+      ["E", "E", "E", "J", null, null]
+    ]
+  },
+  {
+    "name": 93,
+    "exit": [3, 6],
+    "min_num_moves": 6,
+    "board": [
+      ["B", "B", "B", null, null, null],
+      [null, null, "G", null, "C", "C"],
+      ["R", "R", "G", null, null, "H"],
+      ["D", "D", "D", null, null, "H"],
+      [null, null, "E", "E", "F", "F"],
+      [null, null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 94,
+    "exit": [3, 6],
+    "min_num_moves": 6,
+    "board": [
+      [null, null, "G", null, null, null],
+      ["F", null, "G", "B", "B", "B"],
+      ["F", null, "G", "R", "R", "I"],
+      ["F", "C", "C", "D", "D", "I"],
+      [null, null, null, "H", "E", "E"],
+      [null, null, null, "H", null, null]
+    ]
+  },
+  {
+    "name": 95,
+    "exit": [3, 6],
+    "min_num_moves": 6,
+    "board": [
+      [null, "H", "B", "B", "C", "C"],
+      [null, "H", "D", "D", null, "L"],
+      [null, "H", "R", "R", null, "L"],
+      ["E", "E", "J", "F", "F", "F"],
+      [null, "I", "J", null, "K", null],
+      [null, "I", "G", "G", "K", null]
+    ]
+  },
+  {
+    "name": 96,
+    "exit": [3, 6],
+    "min_num_moves": 6,
+    "board": [
+      [null, "F", "B", "B", "B", null],
+      [null, "F", null, "H", null, null],
+      ["R", "R", null, "H", null, null],
+      ["E", "G", "C", "C", "C", null],
+      ["E", "G", null, null, null, null],
+      ["D", "D", null, null, null, null]
+    ]
+  },
+  {
+    "name": 97,
+    "exit": [3, 6],
+    "min_num_moves": 6,
+    "board": [
+      [null, null, "B", "B", null, null],
+      [null, null, "E", "C", "C", "C"],
+      ["R", "R", "E", "F", null, null],
+      [null, null, "E", "F", null, null],
+      [null, "D", "D", "G", null, null],
+      [null, null, null, "G", null, null]
+    ]
+  },
+  {
+    "name": 98,
+    "exit": [3, 6],
+    "min_num_moves": 6,
+    "board": [
+      [null, null, null, null, null, "G"],
+      [null, null, null, "B", "B", "G"],
+      ["R", "R", null, null, "F", "G"],
+      [null, null, null, null, "F", null],
+      [null, null, "C", "C", "C", null],
+      [null, "D", "D", "E", "E", "E"]
+    ]
+  },
+  {
+    "name": 99,
+    "exit": [3, 6],
+    "min_num_moves": 6,
+    "board": [
+      ["G", "B", "B", "C", "C", "C"],
+      ["G", null, null, null, null, "J"],
+      ["G", "R", "R", null, null, "J"],
+      ["H", null, "I", "D", "D", "D"],
+      ["H", null, "I", null, "E", "E"],
+      [null, "F", "F", null, null, null]
+    ]
+  },
+  {
+    "name": 100,
+    "exit": [3, 6],
+    "min_num_moves": 6,
+    "board": [
+      [null, null, "D", "B", "B", null],
+      [null, null, "D", null, "E", "G"],
+      ["R", "R", "D", null, "E", "G"],
+      [null, "C", "C", null, "F", null],
+      [null, null, null, null, "F", null],
+      [null, null, null, null, "F", null]
+    ]
+  },
+  {
+    "name": 101,
+    "exit": [3, 6],
+    "min_num_moves": 6,
+    "board": [
+      [null, null, null, "E", null, null],
+      [null, null, "D", "E", null, "F"],
+      ["R", "R", "D", "E", null, "F"],
+      [null, null, null, null, null, null],
+      [null, null, null, null, null, "G"],
+      ["B", "B", "C", "C", null, "G"]
+    ]
+  },
+  {
+    "name": 102,
+    "exit": [3, 6],
+    "min_num_moves": 6,
+    "board": [
+      [null, null, null, "E", "B", "B"],
+      [null, null, null, "E", "C", "C"],
+      ["R", "R", null, "E", null, "F"],
+      [null, null, null, null, null, "F"],
+      [null, "D", "D", "D", null, "G"],
+      [null, null, null, null, null, "G"]
+    ]
+  },
+  {
+    "name": 103,
+    "exit": [3, 6],
+    "min_num_moves": 6,
+    "board": [
+      ["E", "B", "B", "B", "C", "C"],
+      ["E", null, null, null, null, "H"],
+      ["E", "R", "R", null, null, "H"],
+      ["F", null, "G", "D", "D", "D"],
+      ["F", null, "G", null, null, null],
+      [null, null, "G", null, null, null]
+    ]
+  },
+  {
+    "name": 104,
+    "exit": [3, 6],
+    "min_num_moves": 6,
+    "board": [
+      [null, null, null, null, null, "E"],
+      [null, null, null, null, null, "E"],
+      ["R", "R", null, null, null, "F"],
+      [null, "D", null, null, null, "F"],
+      [null, "D", "B", "B", "C", "C"],
+      [null, null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 105,
+    "exit": [3, 6],
+    "min_num_moves": 6,
+    "board": [
+      [null, null, "F", null, null, null],
+      [null, null, "F", null, "G", null],
+      ["R", "R", "F", null, "G", null],
+      [null, null, null, null, null, null],
+      ["E", "B", "B", null, null, null],
+      ["E", "C", "C", "D", "D", null]
+    ]
+  },
+  {
+    "name": 106,
+    "exit": [3, 6],
+    "min_num_moves": 6,
+    "board": [
+      ["F", "B", "B", "B", "C", "C"],
+      ["F", null, "H", null, null, "K"],
+      ["G", null, "H", "R", "R", "K"],
+      ["G", null, "I", "D", "D", "D"],
+      [null, null, "I", "J", null, null],
+      ["E", "E", "E", "J", null, null]
+    ]
+  },
+  {
+    "name": 107,
+    "exit": [3, 6],
+    "min_num_moves": 7,
+    "board": [
+      [null, "E", null, "B", "B", "B"],
+      [null, "E", null, "F", null, "G"],
+      ["R", "R", null, "F", null, "G"],
+      ["D", null, null, null, null, "H"],
+      ["D", "C", "C", "C", null, "H"],
+      [null, null, null, null, null, "H"]
+    ]
+  },
+  {
+    "name": 108,
+    "exit": [3, 6],
+    "min_num_moves": 7,
+    "board": [
+      [null, null, null, null, null, "H"],
+      [null, "E", null, null, null, "H"],
+      ["D", "E", null, "R", "R", "H"],
+      ["D", "E", "B", "B", "G", null],
+      [null, null, "F", null, "G", null],
+      [null, null, "F", "C", "C", "C"]
+    ]
+  },
+  {
+    "name": 109,
+    "exit": [3, 6],
+    "min_num_moves": 7,
+    "board": [
+      [null, "H", "B", "B", "C", "C"],
+      [null, "H", null, null, null, "J"],
+      [null, "I", "R", "R", null, "J"],
+      [null, "I", "D", "D", "E", "E"],
+      ["F", "F", "F", null, null, null],
+      ["G", "G", null, null, null, null]
+    ]
+  },
+  {
+    "name": 110,
+    "exit": [3, 6],
+    "min_num_moves": 7,
+    "board": [
+      [null, "I", "B", "B", "C", "C"],
+      ["G", "I", "D", "D", null, "K"],
+      ["G", "R", "R", "J", null, "K"],
+      ["G", null, null, "J", "E", "E"],
+      ["H", null, null, null, null, null],
+      ["H", "F", "F", "F", null, null]
+    ]
+  },
+  {
+    "name": 111,
+    "exit": [3, 6],
+    "min_num_moves": 7,
+    "board": [
+      ["E", "B", "B", "H", null, null],
+      ["E", null, "G", "H", null, "I"],
+      ["R", "R", "G", null, null, "I"],
+      ["F", "C", "C", "C", "D", "D"],
+      ["F", null, null, null, null, null],
+      [null, null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 112,
+    "exit": [3, 6],
+    "min_num_moves": 7,
+    "board": [
+      [null, null, "D", null, null, null],
+      [null, null, "D", "B", "B", "B"],
+      ["R", "R", "D", "E", "F", "H"],
+      [null, "C", "C", "E", "F", "H"],
+      [null, null, null, "E", "G", null],
+      [null, null, null, null, "G", null]
+    ]
+  },
+  {
+    "name": 113,
+    "exit": [3, 6],
+    "min_num_moves": 7,
+    "board": [
+      ["G", "B", "B", "C", "C", "C"],
+      ["G", null, null, null, null, "I"],
+      ["G", "R", "R", null, null, "I"],
+      ["D", "D", "E", "E", null, null],
+      [null, null, null, "H", "F", "F"],
+      [null, null, null, "H", null, null]
+    ]
+  },
+  {
+    "name": 114,
+    "exit": [3, 6],
+    "min_num_moves": 7,
+    "board": [
+      [null, null, "B", "B", "H", null],
+      [null, null, "C", "C", "H", null],
+      ["R", "R", null, "G", "H", null],
+      ["F", null, null, "G", null, null],
+      ["F", null, "D", "D", "D", null],
+      ["F", null, null, "E", "E", null]
+    ]
+  },
+  {
+    "name": 115,
+    "exit": [3, 6],
+    "min_num_moves": 7,
+    "board": [
+      [null, null, null, "G", "B", "B"],
+      [null, null, "F", "G", "H", null],
+      ["R", "R", "F", null, "H", null],
+      ["C", "C", "F", "D", "D", null],
+      [null, "E", "E", null, null, null],
+      [null, null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 116,
+    "exit": [3, 6],
+    "min_num_moves": 7,
+    "board": [
+      [null, null, "F", "B", "B", "B"],
+      ["D", null, "F", null, null, "H"],
+      ["D", "E", "F", "R", "R", "H"],
+      ["D", "E", "C", "C", "G", "I"],
+      [null, null, null, null, "G", "I"],
+      [null, null, null, null, "G", "I"]
+    ]
+  },
+  {
+    "name": 117,
+    "exit": [3, 6],
+    "min_num_moves": 7,
+    "board": [
+      [null, null, "E", "B", "B", null],
+      [null, null, "E", "C", "C", "C"],
+      ["R", "R", "E", null, "F", "H"],
+      [null, "D", "D", null, "F", "H"],
+      [null, null, null, null, "G", null],
+      [null, null, null, null, "G", null]
+    ]
+  },
+  {
+    "name": 118,
+    "exit": [3, 6],
+    "min_num_moves": 7,
+    "board": [
+      [null, null, null, null, "H", null],
+      ["B", "B", "C", "C", "H", "I"],
+      ["R", "R", "E", "G", null, "I"],
+      [null, null, "E", "G", null, null],
+      [null, null, "F", "G", null, null],
+      [null, null, "F", "D", "D", null]
+    ]
+  },
+  {
+    "name": 119,
+    "exit": [3, 6],
+    "min_num_moves": 7,
+    "board": [
+      [null, null, null, null, "E", null],
+      [null, null, null, null, "E", null],
+      [null, null, "R", "R", "E", null],
+      [null, null, null, "D", "B", "B"],
+      [null, null, null, "D", null, null],
+      [null, null, null, "D", "C", "C"]
+    ]
+  },
+  {
+    "name": 120,
+    "exit": [3, 6],
+    "min_num_moves": 7,
+    "board": [
+      [null, "G", "B", "B", "C", "C"],
+      [null, "G", null, null, "I", "J"],
+      ["R", "R", null, null, "I", "J"],
+      [null, "H", "D", "D", "D", null],
+      [null, "H", null, null, null, null],
+      ["E", "E", "F", "F", null, null]
+    ]
+  },
+  {
+    "name": 121,
+    "exit": [3, 6],
+    "min_num_moves": 7,
+    "board": [
+      [null, null, null, null, "I", "K"],
+      ["B", "B", "C", "C", "I", "K"],
+      [null, null, "H", "R", "R", "K"],
+      ["F", "G", "H", "D", "D", "D"],
+      ["F", "G", "E", "E", "J", null],
+      [null, null, null, null, "J", null]
+    ]
+  },
+  {
+    "name": 122,
+    "exit": [3, 6],
+    "min_num_moves": 7,
+    "board": [
+      [null, null, null, "E", "G", null],
+      [null, null, null, "E", "G", null],
+      ["R", "R", null, "F", "G", null],
+      ["D", null, null, "F", null, null],
+      ["D", "B", "B", "B", null, null],
+      [null, null, "C", "C", "C", null]
+    ]
+  },
+  {
+    "name": 123,
+    "exit": [3, 6],
+    "min_num_moves": 7,
+    "board": [
+      [null, "B", "B", "I", null, null],
+      [null, null, "G", "I", null, null],
+      ["R", "R", "G", "I", null, null],
+      [null, null, "H", null, null, null],
+      [null, "F", "H", "C", "C", null],
+      [null, "F", "D", "D", "E", "E"]
+    ]
+  },
+  {
+    "name": 124,
+    "exit": [3, 6],
+    "min_num_moves": 7,
+    "board": [
+      [null, null, "F", "B", "B", null],
+      [null, null, "F", "C", "C", "C"],
+      ["R", "R", "F", null, null, null],
+      [null, "E", null, null, "G", null],
+      [null, "E", "D", "D", "G", null],
+      [null, null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 125,
+    "exit": [3, 6],
+    "min_num_moves": 7,
+    "board": [
+      [null, null, "B", "B", "B", null],
+      [null, null, null, "C", "C", "H"],
+      ["R", "R", null, "E", "F", "H"],
+      [null, null, null, "E", "F", null],
+      [null, null, null, "E", "G", null],
+      [null, "D", "D", "D", "G", null]
+    ]
+  },
+  {
+    "name": 126,
+    "exit": [3, 6],
+    "min_num_moves": 7,
+    "board": [
+      [null, "B", "B", "F", "G", "H"],
+      ["C", "C", "C", "F", "G", "H"],
+      ["R", "R", "D", null, "G", null],
+      [null, null, "D", null, null, null],
+      [null, null, "E", null, null, null],
+      [null, null, "E", null, null, null]
+    ]
+  },
+  {
+    "name": 127,
+    "exit": [3, 6],
+    "min_num_moves": 7,
+    "board": [
+      [null, "E", "B", "B", "B", "H"],
+      [null, "E", null, null, "F", "H"],
+      [null, "E", "R", "R", "F", "H"],
+      [null, null, null, null, "G", null],
+      [null, null, null, null, "G", null],
+      [null, "C", "C", "C", "D", "D"]
+    ]
+  },
+  {
+    "name": 128,
+    "exit": [3, 6],
+    "min_num_moves": 7,
+    "board": [
+      ["B", "B", null, null, "F", null],
+      [null, "D", null, null, "F", "H"],
+      [null, "D", "R", "R", "G", "H"],
+      [null, "E", null, null, "G", null],
+      [null, "E", "C", "C", "C", null],
+      [null, null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 129,
+    "exit": [3, 6],
+    "min_num_moves": 7,
+    "board": [
+      ["B", "B", "C", "C", null, "H"],
+      [null, null, null, null, null, "H"],
+      ["R", "R", null, "G", null, "H"],
+      [null, "F", null, "G", "D", "D"],
+      [null, "F", null, "E", "E", "E"],
+      [null, null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 130,
+    "exit": [3, 6],
+    "min_num_moves": 7,
+    "board": [
+      ["F", "B", "B", "B", "C", "C"],
+      ["F", null, "H", null, null, "K"],
+      ["F", null, "H", "R", "R", "K"],
+      ["G", null, "I", "D", "D", "D"],
+      ["G", null, "I", null, "J", null],
+      ["E", "E", "E", null, "J", null]
+    ]
+  },
+  {
+    "name": 131,
+    "exit": [3, 6],
+    "min_num_moves": 8,
+    "board": [
+      ["H", "J", "B", "B", "C", "C"],
+      ["H", "J", null, null, "K", "L"],
+      ["I", "J", "R", "R", "K", "L"],
+      ["I", "D", "D", "E", "E", null],
+      [null, null, null, null, null, null],
+      ["F", "F", "F", "G", "G", null]
+    ]
+  },
+  {
+    "name": 132,
+    "exit": [3, 6],
+    "min_num_moves": 8,
+    "board": [
+      [null, "B", "B", "B", null, null],
+      ["C", "C", "C", "D", "D", null],
+      ["R", "R", null, "F", "H", null],
+      [null, null, null, "F", "H", null],
+      [null, null, null, "G", "E", "E"],
+      [null, null, null, "G", null, null]
+    ]
+  },
+  {
+    "name": 133,
+    "exit": [3, 6],
+    "min_num_moves": 8,
+    "board": [
+      [null, null, null, null, null, "G"],
+      [null, null, null, null, null, "G"],
+      ["R", "R", null, null, null, "G"],
+      ["F", "B", "B", "C", "C", "C"],
+      ["F", null, null, null, "D", "D"],
+      ["F", null, null, null, "E", "E"]
+    ]
+  },
+  {
+    "name": 134,
+    "exit": [3, 6],
+    "min_num_moves": 8,
+    "board": [
+      [null, "F", "B", "B", "B", "I"],
+      [null, "F", null, "H", null, "I"],
+      ["R", "R", null, "H", null, "I"],
+      ["E", "G", "C", "C", "C", null],
+      ["E", "G", null, null, null, null],
+      ["E", "D", "D", null, null, null]
+    ]
+  },
+  {
+    "name": 135,
+    "exit": [3, 6],
+    "min_num_moves": 8,
+    "board": [
+      [null, null, null, null, null, "H"],
+      [null, null, null, "G", null, "H"],
+      ["R", "R", null, "G", null, "H"],
+      ["B", "B", null, null, null, null],
+      ["F", null, null, "C", "C", "C"],
+      ["F", "D", "D", "D", "E", "E"]
+    ]
+  },
+  {
+    "name": 136,
+    "exit": [3, 6],
+    "min_num_moves": 8,
+    "board": [
+      ["B", "B", null, "K", "C", "C"],
+      ["G", "I", null, "K", "L", null],
+      ["G", "I", "R", "R", "L", null],
+      ["G", "I", "J", "D", "D", null],
+      ["H", null, "J", null, null, null],
+      ["H", "E", "E", "F", "F", "F"]
+    ]
+  },
+  {
+    "name": 137,
+    "exit": [3, 6],
+    "min_num_moves": 8,
+    "board": [
+      [null, "D", null, null, null, null],
+      [null, "D", "B", "B", "C", "C"],
+      ["R", "R", null, null, "F", "G"],
+      [null, "E", null, null, "F", "G"],
+      [null, "E", null, null, "F", "H"],
+      [null, null, null, null, null, "H"]
+    ]
+  },
+  {
+    "name": 138,
+    "exit": [3, 6],
+    "min_num_moves": 8,
+    "board": [
+      [null, "B", "B", "C", "C", null],
+      [null, null, null, "F", "G", "I"],
+      ["R", "R", null, "F", "G", "I"],
+      [null, null, null, "F", "H", null],
+      [null, null, "D", "D", "H", null],
+      [null, null, "E", "E", null, null]
+    ]
+  },
+  {
+    "name": 139,
+    "exit": [3, 6],
+    "min_num_moves": 8,
+    "board": [
+      [null, "B", "B", "B", "H", "I"],
+      [null, null, null, "G", "H", "I"],
+      ["R", "R", null, "G", "H", "I"],
+      ["F", null, "C", "C", "C", null],
+      ["F", null, "D", "D", "D", null],
+      [null, null, "E", "E", "E", null]
+    ]
+  },
+  {
+    "name": 140,
+    "exit": [3, 6],
+    "min_num_moves": 8,
+    "board": [
+      [null, null, "B", "B", null, null],
+      [null, null, "C", "C", null, null],
+      ["R", "R", null, "G", null, null],
+      [null, null, null, "G", "D", "D"],
+      [null, null, null, "G", null, "H"],
+      ["E", "E", "E", "F", "F", "H"]
+    ]
+  },
+  {
+    "name": 141,
+    "exit": [3, 6],
+    "min_num_moves": 8,
+    "board": [
+      [null, "B", "B", null, null, "J"],
+      [null, "C", "C", "D", "D", "J"],
+      ["R", "R", "E", "G", "I", null],
+      [null, null, "E", "G", "I", null],
+      [null, null, "F", "H", null, null],
+      [null, null, "F", "H", null, null]
+    ]
+  },
+  {
+    "name": 142,
+    "exit": [3, 6],
+    "min_num_moves": 8,
+    "board": [
+      ["G", "B", "B", "C", "C", null],
+      ["G", null, null, null, null, null],
+      ["G", "R", "R", null, "I", null],
+      ["D", "D", "E", "E", "I", null],
+      [null, null, null, "H", "F", "F"],
+      [null, null, null, "H", null, null]
+    ]
+  },
+  {
+    "name": 143,
+    "exit": [3, 6],
+    "min_num_moves": 8,
+    "board": [
+      [null, "F", null, "B", "B", null],
+      [null, "F", "C", "C", "C", null],
+      [null, "G", "R", "R", "H", null],
+      [null, "G", null, null, "H", null],
+      ["D", "D", null, null, "I", null],
+      ["E", "E", null, null, "I", null]
+    ]
+  },
+  {
+    "name": 144,
+    "exit": [3, 6],
+    "min_num_moves": 8,
+    "board": [
+      ["E", null, null, "G", null, null],
+      ["E", null, null, "G", "B", "B"],
+      ["E", null, "R", "R", "H", "I"],
+      [null, null, "C", "C", "H", "I"],
+      [null, null, "F", "D", "D", "D"],
+      [null, null, "F", null, null, null]
+    ]
+  },
+  {
+    "name": 145,
+    "exit": [3, 6],
+    "min_num_moves": 8,
+    "board": [
+      ["F", null, null, null, null, null],
+      ["F", "B", "B", "C", "C", null],
+      ["R", "R", "G", null, "H", null],
+      [null, null, "G", null, "H", null],
+      [null, null, "G", "D", "D", "D"],
+      [null, "E", "E", null, null, null]
+    ]
+  },
+  {
+    "name": 146,
+    "exit": [3, 6],
+    "min_num_moves": 8,
+    "board": [
+      ["B", "B", "C", "C", null, "G"],
+      [null, null, null, "E", null, "G"],
+      ["R", "R", null, "E", null, "G"],
+      [null, null, null, "F", null, null],
+      [null, null, null, "F", "D", "D"],
+      [null, null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 147,
+    "exit": [3, 6],
+    "min_num_moves": 8,
+    "board": [
+      [null, null, null, "K", "B", "B"],
+      ["C", "C", "C", "K", null, "L"],
+      [null, null, "J", "R", "R", "L"],
+      ["D", "D", "J", "E", "E", "E"],
+      ["I", "F", "F", null, null, null],
+      ["I", "G", "G", "H", "H", "H"]
+    ]
+  },
+  {
+    "name": 148,
+    "exit": [3, 6],
+    "min_num_moves": 8,
+    "board": [
+      [null, "D", "E", "B", "B", "B"],
+      [null, "D", "E", "F", "G", null],
+      ["R", "R", "E", "F", "G", null],
+      [null, "C", "C", null, "H", null],
+      [null, null, null, null, "H", null],
+      [null, null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 149,
+    "exit": [3, 6],
+    "min_num_moves": 8,
+    "board": [
+      [null, null, "H", "B", "B", null],
+      ["C", "C", "H", "I", "J", null],
+      ["G", "R", "R", "I", "J", null],
+      ["G", "D", "D", "E", "E", null],
+      ["F", "F", null, null, null, null],
+      [null, null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 150,
+    "exit": [3, 6],
+    "min_num_moves": 8,
+    "board": [
+      [null, null, "B", "B", "B", "K"],
+      [null, "C", "C", null, "J", "K"],
+      [null, "G", "R", "R", "J", "K"],
+      ["F", "G", "H", "D", "D", "D"],
+      ["F", "G", "H", "I", null, null],
+      ["F", "E", "E", "I", null, null]
+    ]
+  },
+  {
+    "name": 151,
+    "exit": [3, 6],
+    "min_num_moves": 8,
+    "board": [
+      [null, null, null, null, "F", null],
+      [null, null, null, null, "F", "G"],
+      ["R", "R", null, null, "F", "G"],
+      ["B", "B", "B", null, null, null],
+      ["E", "C", "C", "D", "D", null],
+      ["E", null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 152,
+    "exit": [3, 6],
+    "min_num_moves": 8,
+    "board": [
+      [null, null, "G", "B", "B", null],
+      [null, null, "G", "C", "C", "C"],
+      ["R", "R", "G", "H", null, "I"],
+      [null, "D", "D", "H", null, "I"],
+      ["E", "E", "F", "F", null, "J"],
+      [null, null, null, null, null, "J"]
+    ]
+  },
+  {
+    "name": 153,
+    "exit": [3, 6],
+    "min_num_moves": 8,
+    "board": [
+      ["B", "B", "B", "C", "C", "J"],
+      [null, null, null, null, "I", "J"],
+      [null, "R", "R", null, "I", "J"],
+      [null, null, "H", "D", "D", null],
+      ["G", null, "H", null, null, null],
+      ["G", "E", "E", null, "F", "F"]
+    ]
+  },
+  {
+    "name": 154,
+    "exit": [3, 6],
+    "min_num_moves": 8,
+    "board": [
+      ["G", "B", "B", "B", "C", "C"],
+      ["G", null, "I", null, null, "K"],
+      ["G", null, "I", "R", "R", "K"],
+      ["H", null, "J", "D", "D", "D"],
+      ["H", null, "J", null, null, null],
+      ["E", "E", "E", "F", "F", null]
+    ]
+  },
+  {
+    "name": 155,
+    "exit": [3, 6],
+    "min_num_moves": 9,
+    "board": [
+      [null, "B", "B", "B", "C", "C"],
+      [null, null, "G", "D", "D", "D"],
+      ["R", "R", "G", null, "H", "I"],
+      [null, "F", "E", "E", "H", "I"],
+      [null, "F", null, null, "H", "J"],
+      [null, null, null, null, null, "J"]
+    ]
+  },
+  {
+    "name": 156,
+    "exit": [3, 6],
+    "min_num_moves": 9,
+    "board": [
+      [null, null, "B", "B", null, "I"],
+      [null, null, null, "H", null, "I"],
+      ["R", "R", null, "H", null, "I"],
+      [null, "C", "C", "D", "D", "D"],
+      [null, null, null, "E", "E", "E"],
+      [null, "F", "F", "F", "G", "G"]
+    ]
+  },
+  {
+    "name": 157,
+    "exit": [3, 6],
+    "min_num_moves": 9,
+    "board": [
+      [null, null, null, null, "I", null],
+      ["B", "B", null, null, "I", null],
+      ["G", "R", "R", null, "I", null],
+      ["G", null, null, "C", "C", null],
+      ["H", null, null, "D", "D", null],
+      ["H", "E", "E", "F", "F", null]
+    ]
+  },
+  {
+    "name": 158,
+    "exit": [3, 6],
+    "min_num_moves": 9,
+    "board": [
+      [null, null, null, "G", null, null],
+      [null, "B", "B", "G", "C", "C"],
+      [null, "R", "R", "G", null, "H"],
+      [null, "D", "D", null, null, "H"],
+      [null, null, "F", "E", "E", "I"],
+      [null, null, "F", null, null, "I"]
+    ]
+  },
+  {
+    "name": 159,
+    "exit": [3, 6],
+    "min_num_moves": 9,
+    "board": [
+      [null, "B", "B", "B", null, "I"],
+      [null, null, "C", "C", "H", "I"],
+      [null, null, "R", "R", "H", "I"],
+      [null, null, null, "G", "D", "D"],
+      [null, null, null, "G", "E", "E"],
+      [null, "F", "F", "F", null, null]
+    ]
+  },
+  {
+    "name": 160,
+    "exit": [3, 6],
+    "min_num_moves": 9,
+    "board": [
+      ["E", null, "G", "B", "B", "B"],
+      ["E", null, "G", null, null, "J"],
+      ["E", null, "G", "R", "R", "J"],
+      ["F", null, "C", "C", "I", "K"],
+      ["F", null, null, "H", "I", "K"],
+      ["D", "D", "D", "H", "I", null]
+    ]
+  },
+  {
+    "name": 161,
+    "exit": [3, 6],
+    "min_num_moves": 9,
+    "board": [
+      [null, "B", "B", "B", "H", null],
+      [null, null, null, "G", "H", null],
+      ["R", "R", null, "G", "H", null],
+      [null, "F", null, "C", "C", null],
+      [null, "F", "D", "D", "E", "E"],
+      [null, "F", null, null, null, null]
+    ]
+  },
+  {
+    "name": 162,
+    "exit": [3, 6],
+    "min_num_moves": 9,
+    "board": [
+      ["G", "B", "B", "B", null, "K"],
+      ["G", null, null, "I", "J", "K"],
+      ["H", "R", "R", "I", "J", "L"],
+      ["H", "C", "C", "D", "D", "L"],
+      ["E", "E", "E", null, null, "L"],
+      [null, null, null, null, "F", "F"]
+    ]
+  },
+  {
+    "name": 163,
+    "exit": [3, 6],
+    "min_num_moves": 9,
+    "board": [
+      [null, null, null, null, null, "H"],
+      [null, null, null, null, "G", "H"],
+      ["R", "R", null, null, "G", "H"],
+      ["F", null, null, null, null, null],
+      ["F", "B", "B", "C", "C", "C"],
+      ["F", null, "D", "D", "E", "E"]
+    ]
+  },
+  {
+    "name": 164,
+    "exit": [3, 6],
+    "min_num_moves": 9,
+    "board": [
+      [null, null, null, "H", null, null],
+      [null, null, "G", "H", "B", "B"],
+      ["R", "R", "G", "H", null, null],
+      [null, null, null, null, null, "I"],
+      ["F", "C", "C", "D", "D", "I"],
+      ["F", "E", "E", "E", null, null]
+    ]
+  },
+  {
+    "name": 165,
+    "exit": [3, 6],
+    "min_num_moves": 9,
+    "board": [
+      ["H", "B", "B", "C", "C", "C"],
+      ["H", "I", null, null, "D", "D"],
+      ["H", "I", "R", "R", null, "K"],
+      ["E", "E", "E", "J", null, "K"],
+      [null, null, null, "J", "F", "F"],
+      [null, "G", "G", "G", null, null]
+    ]
+  },
+  {
+    "name": 166,
+    "exit": [3, 6],
+    "min_num_moves": 9,
+    "board": [
+      ["E", null, null, "B", "B", "B"],
+      ["E", null, null, "G", "H", "I"],
+      ["R", "R", null, "G", "H", "I"],
+      ["F", null, null, null, "H", "J"],
+      ["F", null, "C", "C", "C", "J"],
+      [null, null, null, "D", "D", null]
+    ]
+  },
+  {
+    "name": 167,
+    "exit": [3, 6],
+    "min_num_moves": 9,
+    "board": [
+      ["D", null, "F", "B", "B", "B"],
+      ["D", null, "F", "G", "I", null],
+      ["R", "R", "F", "G", "I", null],
+      ["E", "C", "C", "H", "I", null],
+      ["E", null, null, "H", null, null],
+      [null, null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 168,
+    "exit": [3, 6],
+    "min_num_moves": 9,
+    "board": [
+      [null, null, null, null, null, "J"],
+      [null, null, "H", "B", "B", "J"],
+      ["R", "R", "H", null, "I", "J"],
+      [null, "G", "C", "C", "I", null],
+      [null, "G", "D", "D", "D", null],
+      [null, "E", "E", "E", "F", "F"]
+    ]
+  },
+  {
+    "name": 169,
+    "exit": [3, 6],
+    "min_num_moves": 9,
+    "board": [
+      [null, "F", "B", "B", "C", "C"],
+      [null, "F", null, "D", "D", "D"],
+      [null, "F", "R", "R", null, "I"],
+      [null, "G", null, null, null, "I"],
+      [null, "G", null, "H", null, "J"],
+      ["E", "E", null, "H", null, "J"]
+    ]
+  },
+  {
+    "name": 170,
+    "exit": [3, 6],
+    "min_num_moves": 9,
+    "board": [
+      ["H", "J", "B", "B", "C", "C"],
+      ["H", "J", null, "D", "D", null],
+      ["H", "J", "R", "R", "K", null],
+      ["I", "E", "E", null, "K", null],
+      ["I", "F", "F", "G", "G", null],
+      [null, null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 171,
+    "exit": [3, 6],
+    "min_num_moves": 9,
+    "board": [
+      [null, null, null, null, null, "K"],
+      ["B", "B", "C", "C", "C", "K"],
+      ["J", "R", "R", null, null, "K"],
+      ["J", "D", "D", "E", "E", "E"],
+      ["F", "F", "G", "G", null, null],
+      ["H", "H", "I", "I", null, null]
+    ]
+  },
+  {
+    "name": 172,
+    "exit": [3, 6],
+    "min_num_moves": 9,
+    "board": [
+      [null, null, null, null, null, null],
+      ["B", "B", "B", null, null, "H"],
+      [null, "F", "R", "R", null, "H"],
+      [null, "F", "C", "C", null, "H"],
+      [null, null, null, "G", "D", "D"],
+      ["E", "E", "E", "G", null, null]
+    ]
+  },
+  {
+    "name": 173,
+    "exit": [3, 6],
+    "min_num_moves": 9,
+    "board": [
+      [null, null, "F", "B", "B", "I"],
+      [null, null, "F", null, "G", "I"],
+      [null, "R", "R", null, "G", "I"],
+      [null, null, null, null, "H", null],
+      [null, "C", "C", null, "H", null],
+      [null, null, "D", "D", "E", "E"]
+    ]
+  },
+  {
+    "name": 174,
+    "exit": [3, 6],
+    "min_num_moves": 9,
+    "board": [
+      [null, null, "F", "B", "B", "B"],
+      [null, null, "F", "C", "C", "C"],
+      ["R", "R", "F", null, null, "G"],
+      [null, "D", "D", null, null, "G"],
+      [null, null, null, null, null, "H"],
+      ["E", "E", "E", null, null, "H"]
+    ]
+  },
+  {
+    "name": 175,
+    "exit": [3, 6],
+    "min_num_moves": 9,
+    "board": [
+      [null, null, "D", "E", null, null],
+      [null, null, "D", "E", "B", "B"],
+      ["R", "R", "D", "F", "G", "I"],
+      [null, null, null, "F", "G", "I"],
+      [null, null, null, null, "H", null],
+      [null, "C", "C", null, "H", null]
+    ]
+  },
+  {
+    "name": 176,
+    "exit": [3, 6],
+    "min_num_moves": 9,
+    "board": [
+      [null, null, null, "F", "G", null],
+      ["B", "B", null, "F", "G", "H"],
+      ["R", "R", null, "F", "G", "H"],
+      ["D", "E", "C", "C", "C", null],
+      ["D", "E", null, null, null, null],
+      ["D", null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 177,
+    "exit": [3, 6],
+    "min_num_moves": 9,
+    "board": [
+      ["G", "B", "B", "B", null, null],
+      ["G", null, null, "I", "C", "C"],
+      ["H", "R", "R", "I", "J", null],
+      ["H", null, null, null, "J", null],
+      ["H", "D", "D", "E", "E", "E"],
+      ["F", "F", null, null, null, null]
+    ]
+  },
+  {
+    "name": 178,
+    "exit": [3, 6],
+    "min_num_moves": 9,
+    "board": [
+      ["I", "B", "B", "B", "C", "C"],
+      ["I", "D", "D", "E", "E", "M"],
+      ["J", "R", "R", null, null, "M"],
+      ["J", null, "K", "F", "F", "F"],
+      ["G", "G", "K", "L", null, null],
+      ["H", "H", "H", "L", null, null]
+    ]
+  },
+  {
+    "name": 179,
+    "exit": [3, 6],
+    "min_num_moves": 10,
+    "board": [
+      [null, null, "B", "B", "I", "J"],
+      [null, null, "C", "C", "I", "J"],
+      [null, null, "R", "R", "I", "J"],
+      [null, null, null, "H", "D", "D"],
+      ["G", null, null, "H", "E", "E"],
+      ["G", null, "F", "F", "F", null]
+    ]
+  },
+  {
+    "name": 180,
+    "exit": [3, 6],
+    "min_num_moves": 10,
+    "board": [
+      ["B", "B", "B", "C", "C", "J"],
+      [null, null, null, null, null, "J"],
+      [null, null, "R", "R", null, "J"],
+      [null, null, null, "I", "D", "D"],
+      ["E", "E", "E", "I", "F", "F"],
+      [null, "G", "G", "H", "H", "H"]
+    ]
+  },
+  {
+    "name": 181,
+    "exit": [3, 6],
+    "min_num_moves": 10,
+    "board": [
+      [null, "B", "B", null, "C", "C"],
+      [null, null, "H", null, null, "J"],
+      ["R", "R", "H", null, null, "J"],
+      [null, null, "H", "D", "D", "K"],
+      [null, "E", "E", null, "I", "K"],
+      ["F", "F", "G", "G", "I", "K"]
+    ]
+  },
+  {
+    "name": 182,
+    "exit": [3, 6],
+    "min_num_moves": 10,
+    "board": [
+      ["B", "B", "G", "C", "C", null],
+      [null, "F", "G", null, "H", "I"],
+      [null, "F", "R", "R", "H", "I"],
+      [null, "F", "D", "D", "D", "J"],
+      ["E", "E", null, null, null, "J"],
+      [null, null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 183,
+    "exit": [3, 6],
+    "min_num_moves": 10,
+    "board": [
+      [null, "B", "B", "B", "I", "J"],
+      [null, null, "C", "C", "I", "J"],
+      ["R", "R", null, "H", "I", "J"],
+      [null, null, null, "H", "D", "D"],
+      [null, null, "E", "E", "E", null],
+      [null, "F", "F", "G", "G", null]
+    ]
+  },
+  {
+    "name": 184,
+    "exit": [3, 6],
+    "min_num_moves": 10,
+    "board": [
+      [null, null, null, null, "H", "I"],
+      [null, null, null, "F", "H", "I"],
+      [null, "R", "R", "F", "H", "I"],
+      [null, null, null, "G", "B", "B"],
+      [null, "D", "E", "G", null, null],
+      [null, "D", "E", "C", "C", null]
+    ]
+  },
+  {
+    "name": 185,
+    "exit": [3, 6],
+    "min_num_moves": 10,
+    "board": [
+      ["B", "B", "B", "C", "C", "J"],
+      [null, "D", "D", "D", null, "J"],
+      ["R", "R", null, "I", null, "J"],
+      [null, null, null, "I", "E", "E"],
+      [null, "F", "F", "G", "G", "G"],
+      [null, null, null, null, "H", "H"]
+    ]
+  },
+  {
+    "name": 186,
+    "exit": [3, 6],
+    "min_num_moves": 10,
+    "board": [
+      [null, "F", "B", "B", "C", "C"],
+      [null, "F", "G", "H", "I", null],
+      ["R", "R", "G", "H", "I", null],
+      [null, null, "G", "H", "J", null],
+      [null, "D", "D", null, "J", null],
+      [null, "E", "E", null, "J", null]
+    ]
+  },
+  {
+    "name": 187,
+    "exit": [3, 6],
+    "min_num_moves": 10,
+    "board": [
+      ["G", null, "I", "B", "B", null],
+      ["G", null, "I", null, "J", null],
+      ["G", "R", "R", null, "J", null],
+      ["H", null, "C", "C", "D", "D"],
+      ["H", null, null, null, null, "K"],
+      ["E", "E", "E", "F", "F", "K"]
+    ]
+  },
+  {
+    "name": 188,
+    "exit": [3, 6],
+    "min_num_moves": 10,
+    "board": [
+      ["E", "F", "B", "B", "C", "C"],
+      ["E", "F", null, null, "I", "K"],
+      ["E", "F", "R", "R", "I", "K"],
+      [null, "G", null, null, "J", null],
+      [null, "G", null, "H", "J", null],
+      ["D", "D", null, "H", "J", null]
+    ]
+  },
+  {
+    "name": 189,
+    "exit": [3, 6],
+    "min_num_moves": 10,
+    "board": [
+      [null, "E", null, null, null, null],
+      [null, "E", null, null, "I", null],
+      [null, "F", "R", "R", "I", null],
+      [null, "F", "B", "B", "I", null],
+      [null, null, "G", "H", "C", "C"],
+      ["D", "D", "G", "H", null, null]
+    ]
+  },
+  {
+    "name": 190,
+    "exit": [3, 6],
+    "min_num_moves": 10,
+    "board": [
+      [null, "B", "B", null, null, "I"],
+      [null, null, "G", "H", null, "I"],
+      ["R", "R", "G", "H", null, "I"],
+      ["F", null, null, null, null, null],
+      ["F", "C", "C", "D", "D", "D"],
+      [null, null, null, null, "E", "E"]
+    ]
+  },
+  {
+    "name": 191,
+    "exit": [3, 6],
+    "min_num_moves": 10,
+    "board": [
+      [null, null, null, "G", "B", "B"],
+      [null, "F", null, "G", "H", "I"],
+      [null, "F", "R", "R", "H", "I"],
+      ["E", null, null, null, "H", "J"],
+      ["E", null, null, null, null, "J"],
+      ["E", "C", "C", "D", "D", null]
+    ]
+  },
+  {
+    "name": 192,
+    "exit": [3, 6],
+    "min_num_moves": 10,
+    "board": [
+      [null, "B", "B", "B", "I", null],
+      [null, null, "C", "C", "I", null],
+      ["R", "R", null, "H", "I", null],
+      ["D", "D", null, "H", null, null],
+      ["G", "E", "E", "F", "F", null],
+      ["G", null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 193,
+    "exit": [3, 6],
+    "min_num_moves": 10,
+    "board": [
+      ["G", "B", "B", "B", "C", "C"],
+      ["G", "I", "D", "D", "E", "E"],
+      ["G", "I", "R", "R", null, "L"],
+      ["H", "J", null, "K", null, "L"],
+      ["H", "J", null, "K", "F", "F"],
+      [null, null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 194,
+    "exit": [3, 6],
+    "min_num_moves": 10,
+    "board": [
+      [null, null, null, "H", null, null],
+      ["F", null, null, "H", "B", "B"],
+      ["F", "R", "R", "H", "I", null],
+      ["F", null, null, null, "I", "J"],
+      ["G", "C", "C", "D", "D", "J"],
+      ["G", "E", "E", "E", null, null]
+    ]
+  },
+  {
+    "name": 195,
+    "exit": [3, 6],
+    "min_num_moves": 10,
+    "board": [
+      [null, null, "G", null, "B", "B"],
+      [null, null, "G", "C", "C", "C"],
+      [null, "R", "R", null, "H", "I"],
+      [null, "F", "D", "D", "H", "I"],
+      [null, "F", null, null, "H", "J"],
+      [null, null, null, "E", "E", "J"]
+    ]
+  },
+  {
+    "name": 196,
+    "exit": [3, 6],
+    "min_num_moves": 10,
+    "board": [
+      [null, "F", null, "B", "B", null],
+      [null, "F", "C", "C", "H", null],
+      ["R", "R", "G", null, "H", "I"],
+      [null, null, "G", "D", "D", "I"],
+      ["E", "E", "E", null, null, "I"],
+      [null, null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 197,
+    "exit": [3, 6],
+    "min_num_moves": 10,
+    "board": [
+      [null, null, null, null, null, "I"],
+      ["B", "B", "B", "C", "C", "I"],
+      [null, "F", "G", "R", "R", "I"],
+      [null, "F", "G", "H", null, null],
+      [null, null, "G", "H", "D", "D"],
+      [null, "E", "E", null, null, null]
+    ]
+  },
+  {
+    "name": 198,
+    "exit": [3, 6],
+    "min_num_moves": 10,
+    "board": [
+      [null, "B", "B", null, null, "I"],
+      ["C", "C", "D", "D", "D", "I"],
+      ["F", "R", "R", null, "H", "I"],
+      ["F", null, "G", null, "H", null],
+      [null, null, "G", "E", "E", "E"],
+      [null, null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 199,
+    "exit": [3, 6],
+    "min_num_moves": 10,
+    "board": [
+      [null, null, "I", "B", "B", "B"],
+      [null, "H", "I", "C", "C", "C"],
+      ["G", "H", "R", "R", "J", "K"],
+      ["G", "H", "D", "D", "J", "K"],
+      [null, null, null, null, null, "L"],
+      ["E", "E", "E", "F", "F", "L"]
+    ]
+  },
+  {
+    "name": 200,
+    "exit": [3, 6],
+    "min_num_moves": 10,
+    "board": [
+      ["E", "B", "B", "H", "I", "J"],
+      ["E", "C", "C", "H", "I", "J"],
+      ["R", "R", "F", null, "I", "J"],
+      [null, null, "F", null, null, null],
+      [null, null, "G", null, null, null],
+      [null, null, "G", "D", "D", "D"]
+    ]
+  },
+  {
+    "name": 201,
+    "exit": [3, 6],
+    "min_num_moves": 10,
+    "board": [
+      [null, "B", "B", "G", "C", "C"],
+      [null, null, null, "G", "H", "J"],
+      ["R", "R", null, "G", "H", "J"],
+      ["D", "D", "E", "E", "I", "K"],
+      [null, null, null, null, "I", "K"],
+      [null, "F", "F", "F", null, null]
+    ]
+  },
+  {
+    "name": 202,
+    "exit": [3, 6],
+    "min_num_moves": 10,
+    "board": [
+      ["H", "B", "B", "B", "C", "C"],
+      ["H", "D", "D", null, null, "M"],
+      ["H", null, "J", "R", "R", "M"],
+      ["I", null, "J", "L", "E", "E"],
+      ["I", null, "K", "L", null, null],
+      ["F", "F", "K", "G", "G", "G"]
+    ]
+  },
+  {
+    "name": 203,
+    "exit": [3, 6],
+    "min_num_moves": 11,
+    "board": [
+      ["F", "G", null, "B", "B", null],
+      ["F", "G", "C", "C", "D", "D"],
+      ["F", "R", "R", null, "I", "K"],
+      [null, "H", null, null, "I", "K"],
+      [null, "H", null, null, "J", null],
+      ["E", "E", null, null, "J", null]
+    ]
+  },
+  {
+    "name": 204,
+    "exit": [3, 6],
+    "min_num_moves": 11,
+    "board": [
+      ["H", "J", "B", "B", "C", "C"],
+      ["H", "J", null, null, "L", "M"],
+      ["I", "K", "R", "R", "L", "M"],
+      ["I", "K", "D", "D", "E", "E"],
+      ["F", "F", "G", "G", null, null],
+      [null, null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 205,
+    "exit": [3, 6],
+    "min_num_moves": 11,
+    "board": [
+      ["F", "B", "B", "H", "C", "C"],
+      ["F", null, null, "H", "D", "D"],
+      ["R", "R", null, "H", "I", "K"],
+      [null, "G", "E", "E", "I", "K"],
+      [null, "G", null, null, "J", "K"],
+      [null, null, null, null, "J", null]
+    ]
+  },
+  {
+    "name": 206,
+    "exit": [3, 6],
+    "min_num_moves": 11,
+    "board": [
+      [null, null, "B", "B", null, null],
+      ["C", "C", null, "H", null, null],
+      ["R", "R", null, "H", null, null],
+      ["D", "D", "D", "H", null, null],
+      ["G", null, "E", "E", null, null],
+      ["G", "F", "F", "F", null, null]
+    ]
+  },
+  {
+    "name": 207,
+    "exit": [3, 6],
+    "min_num_moves": 11,
+    "board": [
+      [null, null, null, "I", "B", "B"],
+      ["C", "C", null, "I", null, "K"],
+      ["G", "R", "R", "J", null, "K"],
+      ["G", "D", "D", "J", null, "L"],
+      ["E", "E", "H", "J", null, "L"],
+      [null, null, "H", "F", "F", "L"]
+    ]
+  },
+  {
+    "name": 208,
+    "exit": [3, 6],
+    "min_num_moves": 11,
+    "board": [
+      ["F", "B", "B", "I", null, null],
+      ["F", null, "H", "I", "C", "C"],
+      ["F", null, "H", "R", "R", "K"],
+      ["G", null, null, null, "J", "K"],
+      ["G", null, "D", "D", "J", "L"],
+      ["E", "E", "E", null, "J", "L"]
+    ]
+  },
+  {
+    "name": 209,
+    "exit": [3, 6],
+    "min_num_moves": 11,
+    "board": [
+      ["H", null, "B", "B", "B", "K"],
+      ["H", null, null, "C", "C", "K"],
+      ["R", "R", null, null, "J", "K"],
+      ["I", null, null, null, "J", null],
+      ["I", null, "D", "D", "E", "E"],
+      ["I", "F", "F", "G", "G", "G"]
+    ]
+  },
+  {
+    "name": 210,
+    "exit": [3, 6],
+    "min_num_moves": 11,
+    "board": [
+      ["F", null, "H", "B", "B", "B"],
+      ["F", null, "H", "C", "C", null],
+      ["G", "R", "R", "I", null, null],
+      ["G", "D", "D", "I", null, null],
+      [null, null, null, "J", null, null],
+      ["E", "E", null, "J", null, null]
+    ]
+  },
+  {
+    "name": 211,
+    "exit": [3, 6],
+    "min_num_moves": 11,
+    "board": [
+      ["B", "B", "C", "C", "J", "K"],
+      [null, null, null, "H", "J", "K"],
+      [null, "R", "R", "H", null, null],
+      [null, null, "G", "I", "D", "D"],
+      [null, null, "G", "I", null, null],
+      ["E", "E", "E", "F", "F", null]
+    ]
+  },
+  {
+    "name": 212,
+    "exit": [3, 6],
+    "min_num_moves": 11,
+    "board": [
+      ["G", null, null, "B", "B", "B"],
+      ["G", "C", "C", "D", "D", "D"],
+      ["H", "R", "R", null, null, "J"],
+      ["H", null, "I", null, null, "J"],
+      ["E", "E", "I", null, null, "K"],
+      ["F", "F", null, null, null, "K"]
+    ]
+  },
+  {
+    "name": 213,
+    "exit": [3, 6],
+    "min_num_moves": 11,
+    "board": [
+      [null, "H", "B", "B", "B", "J"],
+      ["F", "H", null, null, null, "J"],
+      ["F", "H", "R", "R", "I", "J"],
+      ["C", "C", "C", null, "I", null],
+      ["G", "D", "D", "D", "E", "E"],
+      ["G", null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 214,
+    "exit": [3, 6],
+    "min_num_moves": 11,
+    "board": [
+      ["G", null, null, "K", "B", "B"],
+      ["G", "I", "J", "K", null, "L"],
+      ["G", "I", "J", "R", "R", "L"],
+      ["H", "C", "C", "C", "D", "D"],
+      ["H", null, "E", "E", null, "M"],
+      ["F", "F", "F", null, null, "M"]
+    ]
+  },
+  {
+    "name": 215,
+    "exit": [3, 6],
+    "min_num_moves": 11,
+    "board": [
+      ["E", "F", "H", "B", "B", null],
+      ["E", "F", "H", null, "I", "J"],
+      ["E", "G", "R", "R", "I", "J"],
+      [null, "G", "C", "C", "C", "K"],
+      [null, "G", "D", "D", null, "K"],
+      [null, null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 216,
+    "exit": [3, 6],
+    "min_num_moves": 11,
+    "board": [
+      ["F", "B", "B", "B", "C", "C"],
+      ["F", "H", null, null, "J", "K"],
+      ["F", "H", "R", "R", "J", "K"],
+      ["G", null, null, "I", null, null],
+      ["G", null, null, "I", "D", "D"],
+      ["E", "E", null, null, null, null]
+    ]
+  },
+  {
+    "name": 217,
+    "exit": [3, 6],
+    "min_num_moves": 11,
+    "board": [
+      ["F", "B", "B", "C", "C", "C"],
+      ["F", "D", "D", null, "I", "J"],
+      ["F", "R", "R", null, "I", "J"],
+      ["G", "H", null, null, "I", "K"],
+      ["G", "H", "E", "E", "E", "K"],
+      [null, "H", null, null, null, "K"]
+    ]
+  },
+  {
+    "name": 218,
+    "exit": [3, 6],
+    "min_num_moves": 11,
+    "board": [
+      [null, "B", "B", "B", "C", "C"],
+      [null, "D", "D", "D", "E", "E"],
+      ["R", "R", "H", "I", "J", "K"],
+      [null, null, "H", "I", "J", "K"],
+      [null, "G", "H", "I", null, "L"],
+      [null, "G", "F", "F", null, "L"]
+    ]
+  },
+  {
+    "name": 219,
+    "exit": [3, 6],
+    "min_num_moves": 11,
+    "board": [
+      [null, "H", "B", "B", "B", "K"],
+      [null, "H", null, null, "J", "K"],
+      ["F", "R", "R", null, "J", "K"],
+      ["F", "I", null, "C", "C", "C"],
+      ["G", "I", null, null, null, null],
+      ["G", "D", "D", "D", "E", "E"]
+    ]
+  },
+  {
+    "name": 220,
+    "exit": [3, 6],
+    "min_num_moves": 11,
+    "board": [
+      ["G", "I", "B", "B", "C", "C"],
+      ["G", "I", "J", null, null, "L"],
+      ["H", "I", "J", "R", "R", "L"],
+      ["H", "D", "D", null, null, "L"],
+      ["H", null, "K", "E", "E", "E"],
+      [null, null, "K", "F", "F", "F"]
+    ]
+  },
+  {
+    "name": 221,
+    "exit": [3, 6],
+    "min_num_moves": 11,
+    "board": [
+      [null, null, null, null, null, "J"],
+      [null, null, null, "H", "I", "J"],
+      ["R", "R", null, "H", "I", "J"],
+      ["G", "B", "B", "C", "C", "C"],
+      ["G", null, null, null, "D", "D"],
+      ["G", "E", "E", "F", "F", "F"]
+    ]
+  },
+  {
+    "name": 222,
+    "exit": [3, 6],
+    "min_num_moves": 11,
+    "board": [
+      ["B", "B", null, null, "J", "K"],
+      ["C", "C", null, null, "J", "K"],
+      [null, "H", "R", "R", "J", "K"],
+      [null, "H", null, null, null, null],
+      ["G", "I", "D", "D", "D", null],
+      ["G", "I", "E", "E", "F", "F"]
+    ]
+  },
+  {
+    "name": 223,
+    "exit": [3, 6],
+    "min_num_moves": 11,
+    "board": [
+      ["E", "B", "B", "B", "C", "C"],
+      ["E", null, "G", null, null, null],
+      ["R", "R", "G", "H", null, null],
+      ["F", null, "G", "H", null, "I"],
+      ["F", "D", "D", "H", null, "I"],
+      [null, null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 224,
+    "exit": [3, 6],
+    "min_num_moves": 11,
+    "board": [
+      [null, null, "G", null, null, null],
+      [null, null, "G", null, "B", "B"],
+      [null, "R", "R", null, null, "I"],
+      ["C", "C", "D", "D", null, "I"],
+      [null, "F", null, "H", null, "I"],
+      [null, "F", null, "H", "E", "E"]
+    ]
+  },
+  {
+    "name": 225,
+    "exit": [3, 6],
+    "min_num_moves": 11,
+    "board": [
+      [null, "B", "B", "B", "C", "C"],
+      ["D", "D", "D", null, "K", "L"],
+      ["R", "R", null, null, "K", "L"],
+      ["J", "E", "E", "F", "F", "M"],
+      ["J", null, "G", "G", "G", "M"],
+      ["H", "H", "H", "I", "I", null]
+    ]
+  },
+  {
+    "name": 226,
+    "exit": [3, 6],
+    "min_num_moves": 11,
+    "board": [
+      ["B", "B", "G", null, null, "K"],
+      [null, "E", "G", null, "I", "K"],
+      [null, "E", "R", "R", "I", "K"],
+      [null, "E", "H", "C", "C", "C"],
+      [null, "F", "H", null, "J", null],
+      [null, "F", "D", "D", "J", null]
+    ]
+  },
+  {
+    "name": 227,
+    "exit": [3, 6],
+    "min_num_moves": 12,
+    "board": [
+      ["G", "B", "B", "C", "C", "K"],
+      ["G", "D", "D", "D", null, "K"],
+      ["G", null, "I", "R", "R", "K"],
+      ["H", null, "I", "J", null, null],
+      ["H", "E", "E", "J", null, null],
+      [null, null, null, "J", "F", "F"]
+    ]
+  },
+  {
+    "name": 228,
+    "exit": [3, 6],
+    "min_num_moves": 12,
+    "board": [
+      ["G", "B", "B", "C", "C", null],
+      ["G", "D", "D", "I", "K", null],
+      ["R", "R", "H", "I", "K", null],
+      [null, null, "H", "E", "E", "E"],
+      [null, null, null, "J", null, null],
+      ["F", "F", "F", "J", null, null]
+    ]
+  },
+  {
+    "name": 229,
+    "exit": [3, 6],
+    "min_num_moves": 12,
+    "board": [
+      [null, null, "H", null, null, null],
+      [null, null, "H", null, "B", "B"],
+      [null, "R", "R", null, null, "J"],
+      ["C", "C", "D", "D", null, "J"],
+      ["E", "E", "E", "I", null, "J"],
+      ["F", "F", "F", "I", "G", "G"]
+    ]
+  },
+  {
+    "name": 230,
+    "exit": [3, 6],
+    "min_num_moves": 12,
+    "board": [
+      ["B", "B", "C", "C", "J", "K"],
+      ["H", null, null, null, "J", "K"],
+      ["H", null, null, "R", "R", "K"],
+      ["I", null, null, "D", "D", null],
+      ["I", null, "E", "E", "E", null],
+      ["I", "F", "F", "F", "G", "G"]
+    ]
+  },
+  {
+    "name": 231,
+    "exit": [3, 6],
+    "min_num_moves": 12,
+    "board": [
+      [null, "B", "B", "B", null, "K"],
+      [null, null, "C", "C", "J", "K"],
+      ["R", "R", null, "I", "J", "K"],
+      [null, "H", null, "I", "D", "D"],
+      [null, "H", null, "E", "E", "E"],
+      [null, "H", "F", "F", "G", "G"]
+    ]
+  },
+  {
+    "name": 232,
+    "exit": [3, 6],
+    "min_num_moves": 12,
+    "board": [
+      [null, null, "G", null, null, null],
+      ["D", null, "G", "B", "B", "B"],
+      ["D", "R", "R", "H", null, null],
+      ["E", "F", null, "H", null, "I"],
+      ["E", "F", "C", "C", "C", "I"],
+      [null, null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 233,
+    "exit": [3, 6],
+    "min_num_moves": 12,
+    "board": [
+      ["D", null, "H", "B", "B", "K"],
+      ["D", "F", "H", null, "J", "K"],
+      ["D", "F", "R", "R", "J", null],
+      ["E", "G", null, "I", "C", "C"],
+      ["E", "G", null, "I", null, "L"],
+      [null, null, null, "I", null, "L"]
+    ]
+  },
+  {
+    "name": 234,
+    "exit": [3, 6],
+    "min_num_moves": 12,
+    "board": [
+      ["F", "B", "B", "C", "C", "K"],
+      ["F", null, "G", "H", null, "K"],
+      ["R", "R", "G", "H", "I", "K"],
+      [null, null, "G", null, "I", null],
+      [null, null, null, null, "J", null],
+      ["D", "D", "E", "E", "J", null]
+    ]
+  },
+  {
+    "name": 235,
+    "exit": [3, 6],
+    "min_num_moves": 12,
+    "board": [
+      ["E", null, "F", "G", "B", "B"],
+      ["E", null, "F", "G", "H", null],
+      ["E", "R", "R", null, "H", "J"],
+      [null, null, null, null, "I", "J"],
+      [null, null, null, null, "I", "K"],
+      ["C", "C", "D", "D", "D", "K"]
+    ]
+  },
+  {
+    "name": 236,
+    "exit": [3, 6],
+    "min_num_moves": 12,
+    "board": [
+      ["B", "B", "B", "C", "C", "K"],
+      ["G", "D", "D", "D", null, "K"],
+      ["G", "H", "I", "R", "R", "K"],
+      ["G", "H", "I", "J", null, null],
+      [null, null, null, "J", "E", "E"],
+      [null, null, null, null, "F", "F"]
+    ]
+  },
+  {
+    "name": 237,
+    "exit": [3, 6],
+    "min_num_moves": 12,
+    "board": [
+      ["F", "G", "B", "B", "C", "C"],
+      ["F", "G", "H", "D", "D", "L"],
+      ["R", "R", "H", "I", "J", "L"],
+      [null, "E", "E", "I", "J", null],
+      [null, null, null, "I", "K", null],
+      [null, null, null, null, "K", null]
+    ]
+  },
+  {
+    "name": 238,
+    "exit": [3, 6],
+    "min_num_moves": 12,
+    "board": [
+      [null, null, null, "I", "B", "B"],
+      [null, "C", "C", "I", "D", "D"],
+      [null, "R", "R", "I", "J", "K"],
+      [null, "E", "E", null, "J", "K"],
+      [null, null, "H", "F", "F", "L"],
+      [null, null, "H", "G", "G", "L"]
+    ]
+  },
+  {
+    "name": 239,
+    "exit": [3, 6],
+    "min_num_moves": 12,
+    "board": [
+      [null, null, null, null, null, "K"],
+      ["G", null, null, "J", null, "K"],
+      ["G", "R", "R", "J", null, "K"],
+      ["H", "I", "B", "B", "C", "C"],
+      ["H", "I", null, null, "D", "D"],
+      ["H", "E", "E", "F", "F", "F"]
+    ]
+  },
+  {
+    "name": 240,
+    "exit": [3, 6],
+    "min_num_moves": 12,
+    "board": [
+      ["G", "B", "B", "C", "C", "C"],
+      ["G", "D", "D", "D", "J", "K"],
+      ["H", "I", "R", "R", "J", "K"],
+      ["H", "I", null, null, null, "L"],
+      ["H", "I", "E", "E", "E", "L"],
+      ["F", "F", null, null, null, null]
+    ]
+  },
+  {
+    "name": 241,
+    "exit": [3, 6],
+    "min_num_moves": 12,
+    "board": [
+      ["B", "B", "C", "C", "C", null],
+      ["D", "D", "E", "E", "K", null],
+      [null, "R", "R", "J", "K", null],
+      [null, "F", "F", "J", null, null],
+      [null, null, "I", "J", "G", "G"],
+      [null, null, "I", "H", "H", "H"]
+    ]
+  },
+  {
+    "name": 242,
+    "exit": [3, 6],
+    "min_num_moves": 12,
+    "board": [
+      ["E", "B", "B", "G", "C", "C"],
+      ["E", null, null, "G", "H", "J"],
+      ["E", null, "R", "R", "H", "J"],
+      [null, null, "F", "D", "D", "J"],
+      [null, null, "F", null, "I", null],
+      [null, null, "F", null, "I", null]
+    ]
+  },
+  {
+    "name": 243,
+    "exit": [3, 6],
+    "min_num_moves": 12,
+    "board": [
+      ["B", "B", "C", "C", "C", "M"],
+      ["D", "D", null, null, "L", "M"],
+      ["R", "R", null, null, "L", "M"],
+      ["J", "K", null, "E", "E", null],
+      ["J", "K", "F", "F", "G", "G"],
+      ["J", "H", "H", "H", "I", "I"]
+    ]
+  },
+  {
+    "name": 244,
+    "exit": [3, 6],
+    "min_num_moves": 12,
+    "board": [
+      [null, "G", "B", "B", null, "J"],
+      [null, "G", "H", null, null, "J"],
+      ["R", "R", "H", null, null, null],
+      ["F", null, "H", "C", "C", "C"],
+      ["F", "D", "D", "I", null, null],
+      ["E", "E", null, "I", null, null]
+    ]
+  },
+  {
+    "name": 245,
+    "exit": [3, 6],
+    "min_num_moves": 12,
+    "board": [
+      [null, null, null, "I", "B", "B"],
+      ["C", "C", null, "I", "J", "L"],
+      [null, "H", "R", "R", "J", "L"],
+      [null, "H", null, null, "K", "L"],
+      ["G", "D", "D", null, "K", null],
+      ["G", "E", "E", "F", "F", "F"]
+    ]
+  },
+  {
+    "name": 246,
+    "exit": [3, 6],
+    "min_num_moves": 12,
+    "board": [
+      [null, null, null, null, "I", null],
+      [null, "E", "B", "B", "I", null],
+      [null, "E", "R", "R", "I", null],
+      [null, "C", "C", "H", null, null],
+      [null, "F", "G", "H", null, null],
+      [null, "F", "G", "D", "D", "D"]
+    ]
+  },
+  {
+    "name": 247,
+    "exit": [3, 6],
+    "min_num_moves": 12,
+    "board": [
+      ["I", "J", "B", "B", "C", "C"],
+      ["I", "J", "D", "D", "E", "E"],
+      ["I", "R", "R", null, null, "M"],
+      [null, "K", "L", null, null, "M"],
+      [null, "K", "L", "F", "F", "F"],
+      ["G", "G", "L", "H", "H", null]
+    ]
+  },
+  {
+    "name": 248,
+    "exit": [3, 6],
+    "min_num_moves": 12,
+    "board": [
+      ["E", "F", null, null, "I", null],
+      ["E", "F", null, null, "I", "K"],
+      ["E", "F", "R", "R", "J", "K"],
+      [null, null, null, "H", "J", null],
+      [null, null, "G", "H", "B", "B"],
+      ["C", "C", "G", "D", "D", null]
+    ]
+  },
+  {
+    "name": 249,
+    "exit": [3, 6],
+    "min_num_moves": 12,
+    "board": [
+      [null, null, "G", null, null, null],
+      [null, "F", "G", null, null, "I"],
+      [null, "F", "G", "R", "R", "I"],
+      [null, "B", "B", "C", "C", "I"],
+      [null, null, null, "H", "D", "D"],
+      [null, "E", "E", "H", null, null]
+    ]
+  },
+  {
+    "name": 250,
+    "exit": [3, 6],
+    "min_num_moves": 12,
+    "board": [
+      [null, "B", "B", "C", "C", "M"],
+      [null, "I", "D", "D", "K", "M"],
+      [null, "I", "R", "R", "K", "M"],
+      [null, "I", "J", "E", "E", "E"],
+      ["F", "F", "J", null, "L", null],
+      ["G", "G", "H", "H", "L", null]
+    ]
+  },
+  {
+    "name": 251,
+    "exit": [3, 6],
+    "min_num_moves": 13,
+    "board": [
+      ["B", "B", null, "K", null, null],
+      ["C", "C", null, "K", "D", "D"],
+      ["R", "R", null, "K", null, "L"],
+      ["I", "E", "E", "F", "F", "L"],
+      ["I", null, "J", "G", "G", null],
+      ["H", "H", "J", null, null, null]
+    ]
+  },
+  {
+    "name": 252,
+    "exit": [3, 6],
+    "min_num_moves": 13,
+    "board": [
+      ["H", null, null, "B", "B", null],
+      ["H", null, "C", "C", "C", "K"],
+      ["H", null, "R", "R", "J", "K"],
+      ["D", "D", "E", "E", "J", "K"],
+      [null, null, null, "I", "F", "F"],
+      [null, null, null, "I", "G", "G"]
+    ]
+  },
+  {
+    "name": 253,
+    "exit": [3, 6],
+    "min_num_moves": 13,
+    "board": [
+      [null, null, "G", "I", null, "K"],
+      [null, null, "G", "I", null, "K"],
+      ["R", "R", "H", "J", null, "K"],
+      [null, "F", "H", "J", "B", "B"],
+      ["E", "F", null, null, null, null],
+      ["E", "F", "C", "C", "D", "D"]
+    ]
+  },
+  {
+    "name": 254,
+    "exit": [3, 6],
+    "min_num_moves": 13,
+    "board": [
+      [null, "H", "B", "B", null, "K"],
+      [null, "H", null, null, null, "K"],
+      ["R", "R", null, "J", null, "K"],
+      ["G", "C", "C", "J", "D", "D"],
+      ["G", null, "I", "E", "E", "E"],
+      ["G", null, "I", null, "F", "F"]
+    ]
+  },
+  {
+    "name": 255,
+    "exit": [3, 6],
+    "min_num_moves": 13,
+    "board": [
+      ["G", null, null, "I", null, null],
+      ["G", "B", "B", "I", "C", "C"],
+      ["R", "R", null, "I", null, null],
+      [null, "H", "D", "D", "D", null],
+      [null, "H", "E", "E", "J", null],
+      ["F", "F", null, null, "J", null]
+    ]
+  },
+  {
+    "name": 256,
+    "exit": [3, 6],
+    "min_num_moves": 13,
+    "board": [
+      ["B", "B", "C", "C", "C", "J"],
+      [null, null, null, null, "I", "J"],
+      ["R", "R", null, null, "I", "J"],
+      ["F", "G", null, "D", "D", "D"],
+      ["F", "G", null, "H", null, null],
+      ["F", null, null, "H", "E", "E"]
+    ]
+  },
+  {
+    "name": 257,
+    "exit": [3, 6],
+    "min_num_moves": 13,
+    "board": [
+      ["B", "B", "C", "C", "J", "K"],
+      [null, null, "F", "H", "J", "K"],
+      ["R", "R", "F", "H", "J", "K"],
+      [null, null, "G", null, null, null],
+      ["E", null, "G", "I", null, null],
+      ["E", null, "G", "I", "D", "D"]
+    ]
+  },
+  {
+    "name": 258,
+    "exit": [3, 6],
+    "min_num_moves": 13,
+    "board": [
+      [null, "B", "B", null, null, "L"],
+      ["C", "C", "D", "D", null, "L"],
+      ["R", "R", "I", "K", null, "L"],
+      [null, "H", "I", "K", "E", "E"],
+      ["G", "H", "J", null, null, null],
+      ["G", "H", "J", "F", "F", "F"]
+    ]
+  },
+  {
+    "name": 259,
+    "exit": [3, 6],
+    "min_num_moves": 13,
+    "board": [
+      ["B", "B", "C", "C", null, null],
+      [null, null, "H", null, null, null],
+      ["R", "R", "H", null, null, null],
+      ["G", null, "H", "D", "D", null],
+      ["G", "E", "E", "I", "J", null],
+      ["G", "F", "F", "I", "J", null]
+    ]
+  },
+  {
+    "name": 260,
+    "exit": [3, 6],
+    "min_num_moves": 13,
+    "board": [
+      [null, null, null, null, null, null],
+      [null, null, "G", "H", "B", "B"],
+      ["R", "R", "G", "H", "I", "J"],
+      ["C", "C", "C", "H", "I", "J"],
+      ["F", "D", "D", "D", "I", "K"],
+      ["F", "E", "E", "E", null, "K"]
+    ]
+  },
+  {
+    "name": 261,
+    "exit": [3, 6],
+    "min_num_moves": 13,
+    "board": [
+      ["B", "B", null, null, "I", "J"],
+      ["C", "C", null, null, "I", "J"],
+      ["F", "R", "R", null, "I", "J"],
+      ["F", null, "H", null, null, null],
+      ["G", null, "H", "D", "D", "D"],
+      ["G", null, "E", "E", "E", null]
+    ]
+  },
+  {
+    "name": 262,
+    "exit": [3, 6],
+    "min_num_moves": 13,
+    "board": [
+      ["G", "I", "B", "B", "C", "C"],
+      ["G", "I", "K", "L", "M", null],
+      ["R", "R", "K", "L", "M", null],
+      ["H", "J", "D", "D", "E", "E"],
+      ["H", "J", null, null, null, null],
+      ["F", "F", "F", null, null, null]
+    ]
+  },
+  {
+    "name": 263,
+    "exit": [3, 6],
+    "min_num_moves": 13,
+    "board": [
+      ["H", "J", "B", "B", "C", "C"],
+      ["H", "J", null, "D", "D", "M"],
+      ["H", "J", "R", "R", "L", "M"],
+      ["I", "E", "E", "E", "L", "M"],
+      ["I", "K", null, "F", "F", "F"],
+      [null, "K", null, "G", "G", "G"]
+    ]
+  },
+  {
+    "name": 264,
+    "exit": [3, 6],
+    "min_num_moves": 13,
+    "board": [
+      [null, "E", null, null, null, null],
+      [null, "E", "G", "I", "J", null],
+      ["R", "R", "G", "I", "J", null],
+      ["D", "F", "B", "B", "J", null],
+      ["D", "F", "H", null, null, null],
+      ["D", "F", "H", "C", "C", null]
+    ]
+  },
+  {
+    "name": 265,
+    "exit": [3, 6],
+    "min_num_moves": 13,
+    "board": [
+      ["I", "B", "B", "B", "C", "C"],
+      ["I", null, null, "J", null, null],
+      ["R", "R", null, "J", null, null],
+      ["D", "D", null, "J", "E", "E"],
+      ["F", "F", "G", "G", null, "K"],
+      [null, null, "H", "H", null, "K"]
+    ]
+  },
+  {
+    "name": 266,
+    "exit": [3, 6],
+    "min_num_moves": 13,
+    "board": [
+      ["B", "B", "B", null, "I", null],
+      ["E", null, "C", "C", "I", null],
+      ["E", "R", "R", "H", "I", null],
+      ["F", null, "G", "H", null, null],
+      ["F", null, "G", "H", "D", "D"],
+      ["F", null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 267,
+    "exit": [3, 6],
+    "min_num_moves": 13,
+    "board": [
+      [null, "H", null, null, "B", "B"],
+      [null, "H", "C", "C", "D", "D"],
+      ["R", "R", null, "I", "J", "K"],
+      ["G", null, null, "I", "J", "K"],
+      ["G", "E", "E", "E", "J", "L"],
+      ["G", null, "F", "F", "F", "L"]
+    ]
+  },
+  {
+    "name": 268,
+    "exit": [3, 6],
+    "min_num_moves": 13,
+    "board": [
+      ["B", "B", "B", "C", "C", "K"],
+      ["D", "D", "D", null, "J", "K"],
+      ["R", "R", null, null, "J", "K"],
+      ["G", "H", "E", "E", "J", null],
+      ["G", "H", "I", null, null, null],
+      ["G", null, "I", null, "F", "F"]
+    ]
+  },
+  {
+    "name": 269,
+    "exit": [3, 6],
+    "min_num_moves": 13,
+    "board": [
+      [null, "H", "B", "B", "C", "C"],
+      [null, "H", "I", "D", "D", "D"],
+      ["R", "R", "I", null, null, "K"],
+      ["G", null, "I", "E", "E", "K"],
+      ["G", null, null, "J", null, "L"],
+      ["G", "F", "F", "J", null, "L"]
+    ]
+  },
+  {
+    "name": 270,
+    "exit": [3, 6],
+    "min_num_moves": 13,
+    "board": [
+      [null, null, null, null, null, null],
+      [null, null, null, null, "H", "I"],
+      [null, null, "R", "R", "H", "I"],
+      ["B", "B", "B", "G", "H", null],
+      ["E", "F", null, "G", null, null],
+      ["E", "F", "C", "C", "D", "D"]
+    ]
+  },
+  {
+    "name": 271,
+    "exit": [3, 6],
+    "min_num_moves": 13,
+    "board": [
+      [null, null, null, null, null, "L"],
+      [null, null, "H", "J", "K", "L"],
+      ["R", "R", "H", "J", "K", "L"],
+      ["F", "G", "B", "B", "C", "C"],
+      ["F", "G", "I", "D", "D", "D"],
+      ["F", null, "I", "E", "E", "E"]
+    ]
+  },
+  {
+    "name": 272,
+    "exit": [3, 6],
+    "min_num_moves": 13,
+    "board": [
+      ["F", null, null, "I", "B", "B"],
+      ["F", null, null, "I", "J", "K"],
+      ["G", null, "R", "R", "J", "K"],
+      ["G", "C", "C", null, "J", "K"],
+      ["D", "D", "H", null, null, null],
+      [null, null, "H", "E", "E", null]
+    ]
+  },
+  {
+    "name": 273,
+    "exit": [3, 6],
+    "min_num_moves": 13,
+    "board": [
+      ["F", null, null, "H", null, null],
+      ["F", "B", "B", "H", "C", "C"],
+      ["R", "R", "G", "H", "I", "K"],
+      [null, null, "G", null, "I", "K"],
+      [null, null, null, null, "J", "L"],
+      ["D", "D", "E", "E", "J", "L"]
+    ]
+  },
+  {
+    "name": 274,
+    "exit": [3, 6],
+    "min_num_moves": 13,
+    "board": [
+      ["F", "B", "B", "C", "C", "K"],
+      ["F", "H", null, null, "J", "K"],
+      ["G", "H", "R", "R", "J", "L"],
+      ["G", "H", "D", "D", "D", "L"],
+      ["E", "E", "E", "I", null, "L"],
+      [null, null, null, "I", null, null]
+    ]
+  },
+  {
+    "name": 275,
+    "exit": [3, 6],
+    "min_num_moves": 14,
+    "board": [
+      ["H", "B", "B", "C", "C", "L"],
+      ["H", "D", "D", "D", null, "L"],
+      ["R", "R", null, "K", null, null],
+      ["I", "J", null, "K", null, null],
+      ["I", "J", "E", "E", "F", "F"],
+      ["G", "G", "G", null, null, null]
+    ]
+  },
+  {
+    "name": 276,
+    "exit": [3, 6],
+    "min_num_moves": 14,
+    "board": [
+      [null, "K", null, "B", "B", "M"],
+      ["I", "K", "C", "C", "C", "M"],
+      ["I", "R", "R", null, "L", "M"],
+      ["D", "D", null, null, "L", null],
+      ["J", "E", "E", "F", "F", "F"],
+      ["J", "G", "G", "H", "H", "H"]
+    ]
+  },
+  {
+    "name": 277,
+    "exit": [3, 6],
+    "min_num_moves": 14,
+    "board": [
+      [null, null, "F", "B", "B", "B"],
+      [null, null, "F", "C", "C", "C"],
+      [null, "R", "R", null, "G", "H"],
+      [null, null, null, null, "G", "H"],
+      ["D", "D", "E", "E", "E", "I"],
+      [null, null, null, null, null, "I"]
+    ]
+  },
+  {
+    "name": 278,
+    "exit": [3, 6],
+    "min_num_moves": 14,
+    "board": [
+      ["B", "B", "J", "C", "C", "L"],
+      ["G", null, "J", null, null, "L"],
+      ["G", "R", "R", "K", null, "L"],
+      ["H", "I", null, "K", "D", "D"],
+      ["H", "I", null, null, null, null],
+      ["H", "E", "E", "E", "F", "F"]
+    ]
+  },
+  {
+    "name": 279,
+    "exit": [3, 6],
+    "min_num_moves": 14,
+    "board": [
+      ["D", null, null, "G", "I", null],
+      ["D", null, null, "G", "I", "K"],
+      ["D", "R", "R", "H", "J", "K"],
+      [null, "E", "F", "H", "J", null],
+      [null, "E", "F", "B", "B", null],
+      ["C", "C", "C", null, null, null]
+    ]
+  },
+  {
+    "name": 280,
+    "exit": [3, 6],
+    "min_num_moves": 14,
+    "board": [
+      [null, null, "I", "B", "B", "B"],
+      ["E", "G", "I", "C", "C", "C"],
+      ["E", "G", "R", "R", "J", null],
+      ["F", "H", "D", "D", "J", null],
+      ["F", "H", null, null, "K", null],
+      [null, null, null, null, "K", null]
+    ]
+  },
+  {
+    "name": 281,
+    "exit": [3, 6],
+    "min_num_moves": 14,
+    "board": [
+      ["B", "B", "C", "C", "C", null],
+      ["D", "D", "D", "K", null, null],
+      ["R", "R", null, "K", "L", null],
+      ["E", "E", "F", "F", "L", null],
+      ["J", "G", "G", "G", null, null],
+      ["J", "H", "H", "H", "I", "I"]
+    ]
+  },
+  {
+    "name": 282,
+    "exit": [3, 6],
+    "min_num_moves": 14,
+    "board": [
+      ["F", "H", "B", "B", "C", "C"],
+      ["F", "H", null, null, "K", "L"],
+      ["F", "R", "R", null, "K", "L"],
+      ["G", "I", "D", "D", "D", "L"],
+      ["G", "I", "J", null, null, null],
+      ["E", "E", "J", null, null, null]
+    ]
+  },
+  {
+    "name": 283,
+    "exit": [3, 6],
+    "min_num_moves": 14,
+    "board": [
+      ["B", "B", "B", null, "J", null],
+      [null, "G", "C", "C", "J", "K"],
+      [null, "G", "R", "R", "J", "K"],
+      [null, "D", "D", "I", null, null],
+      [null, null, "H", "I", "E", "E"],
+      [null, null, "H", "F", "F", "F"]
+    ]
+  },
+  {
+    "name": 284,
+    "exit": [3, 6],
+    "min_num_moves": 14,
+    "board": [
+      [null, null, "H", "I", "B", "B"],
+      ["G", null, "H", "I", "C", "C"],
+      ["G", "R", "R", "J", null, null],
+      [null, null, null, "J", null, "K"],
+      [null, "D", "D", "E", "E", "K"],
+      [null, null, "F", "F", null, null]
+    ]
+  },
+  {
+    "name": 285,
+    "exit": [3, 6],
+    "min_num_moves": 14,
+    "board": [
+      ["H", null, "B", "B", null, null],
+      ["H", "C", "C", "C", "K", "L"],
+      ["R", "R", null, null, "K", "L"],
+      ["I", "D", "D", "E", "E", "L"],
+      ["I", null, null, "J", null, null],
+      ["F", "F", null, "J", "G", "G"]
+    ]
+  },
+  {
+    "name": 286,
+    "exit": [3, 6],
+    "min_num_moves": 14,
+    "board": [
+      [null, "E", "B", "B", "H", null],
+      [null, "E", null, "F", "H", null],
+      ["R", "R", null, "F", "I", null],
+      ["C", "C", "D", "D", "I", null],
+      [null, null, null, "G", null, null],
+      [null, null, null, "G", null, null]
+    ]
+  },
+  {
+    "name": 287,
+    "exit": [3, 6],
+    "min_num_moves": 14,
+    "board": [
+      ["B", "B", "B", "J", "C", "C"],
+      [null, "D", "D", "J", "E", "E"],
+      [null, "R", "R", "J", null, "L"],
+      [null, null, "I", "F", "F", "L"],
+      [null, null, "I", null, "K", "M"],
+      ["G", "G", "H", "H", "K", "M"]
+    ]
+  },
+  {
+    "name": 288,
+    "exit": [3, 6],
+    "min_num_moves": 14,
+    "board": [
+      ["B", "B", "C", "C", null, "M"],
+      [null, null, "J", "L", null, "M"],
+      ["R", "R", "J", "L", null, "M"],
+      ["H", null, "K", "D", "D", "D"],
+      ["H", "I", "K", null, "E", "E"],
+      ["H", "I", "F", "F", "G", "G"]
+    ]
+  },
+  {
+    "name": 289,
+    "exit": [3, 6],
+    "min_num_moves": 14,
+    "board": [
+      ["F", null, null, null, null, "K"],
+      ["F", "B", "B", "I", "J", "K"],
+      ["R", "R", "H", "I", "J", "K"],
+      ["G", null, "H", "C", "C", "C"],
+      ["G", null, "H", null, "D", "D"],
+      ["E", "E", "E", null, null, null]
+    ]
+  },
+  {
+    "name": 290,
+    "exit": [3, 6],
+    "min_num_moves": 14,
+    "board": [
+      ["B", "B", "B", "C", "C", "J"],
+      [null, null, null, "H", "I", "J"],
+      [null, "R", "R", "H", "I", null],
+      [null, null, "G", "H", "D", "D"],
+      [null, null, "G", "E", "E", "K"],
+      [null, null, "F", "F", null, "K"]
+    ]
+  },
+  {
+    "name": 291,
+    "exit": [3, 6],
+    "min_num_moves": 14,
+    "board": [
+      [null, null, null, "B", "B", "B"],
+      ["C", "C", null, null, null, "J"],
+      ["R", "R", null, null, null, "J"],
+      ["D", "D", "E", "E", "E", "J"],
+      ["I", "F", "F", "F", "G", "G"],
+      ["I", null, null, "H", "H", "H"]
+    ]
+  },
+  {
+    "name": 292,
+    "exit": [3, 6],
+    "min_num_moves": 14,
+    "board": [
+      ["G", null, "H", "B", "B", null],
+      ["G", null, "H", null, null, "K"],
+      ["G", "R", "R", null, "I", "K"],
+      ["C", "C", "C", null, "I", null],
+      ["D", "D", null, null, "J", null],
+      ["E", "E", "F", "F", "J", null]
+    ]
+  },
+  {
+    "name": 293,
+    "exit": [3, 6],
+    "min_num_moves": 14,
+    "board": [
+      [null, null, "G", "B", "B", "B"],
+      ["E", null, "G", null, null, null],
+      ["E", "R", "R", "H", "J", "K"],
+      ["C", "C", "C", "H", "J", "K"],
+      ["F", null, null, "I", null, null],
+      ["F", null, null, "I", "D", "D"]
+    ]
+  },
+  {
+    "name": 294,
+    "exit": [3, 6],
+    "min_num_moves": 14,
+    "board": [
+      ["B", "B", "B", "C", "C", "K"],
+      ["D", "D", "E", "E", "E", "K"],
+      ["R", "R", null, null, "J", null],
+      ["H", "F", "F", "F", "J", null],
+      ["H", null, null, "I", "G", "G"],
+      ["H", null, null, "I", null, null]
+    ]
+  },
+  {
+    "name": 295,
+    "exit": [3, 6],
+    "min_num_moves": 14,
+    "board": [
+      [null, null, "F", null, null, null],
+      [null, null, "F", "B", "B", null],
+      ["R", "R", "F", null, "G", null],
+      [null, "C", "C", null, "G", "I"],
+      [null, "D", "D", null, "H", "I"],
+      ["E", "E", "E", null, "H", "I"]
+    ]
+  },
+  {
+    "name": 296,
+    "exit": [3, 6],
+    "min_num_moves": 14,
+    "board": [
+      [null, null, "E", null, null, "I"],
+      [null, null, "E", "B", "B", "I"],
+      [null, "R", "R", "G", "H", "J"],
+      [null, null, "F", "G", "H", "J"],
+      [null, null, "F", "G", "C", "C"],
+      [null, "D", "D", null, null, null]
+    ]
+  },
+  {
+    "name": 297,
+    "exit": [3, 6],
+    "min_num_moves": 14,
+    "board": [
+      ["H", "B", "B", null, null, null],
+      ["H", null, "I", null, "C", "C"],
+      ["R", "R", "I", null, null, "K"],
+      [null, null, "I", "D", "D", "K"],
+      ["E", "E", "F", "F", "J", "L"],
+      ["G", "G", "G", null, "J", "L"]
+    ]
+  },
+  {
+    "name": 298,
+    "exit": [3, 6],
+    "min_num_moves": 14,
+    "board": [
+      ["I", "B", "B", "C", "C", "N"],
+      ["I", "J", "D", "D", "L", "N"],
+      ["I", "J", "R", "R", "L", "N"],
+      [null, "J", "K", "E", "E", "E"],
+      ["F", "F", "K", null, "M", null],
+      ["G", "G", "H", "H", "M", null]
+    ]
+  },
+  {
+    "name": 299,
+    "exit": [3, 6],
+    "min_num_moves": 15,
+    "board": [
+      [null, null, "B", "B", null, "L"],
+      [null, "C", "C", "D", "D", "L"],
+      [null, "R", "R", null, null, "L"],
+      ["E", "E", "J", "K", null, null],
+      [null, "I", "J", "K", "F", "F"],
+      [null, "I", "G", "G", "H", "H"]
+    ]
+  },
+  {
+    "name": 300,
+    "exit": [3, 6],
+    "min_num_moves": 15,
+    "board": [
+      [null, "F", "B", "B", "J", "K"],
+      ["E", "F", "C", "C", "J", "K"],
+      ["E", "R", "R", "I", null, "K"],
+      [null, "G", "H", "I", null, null],
+      [null, "G", "H", "D", "D", "D"],
+      [null, null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 301,
+    "exit": [3, 6],
+    "min_num_moves": 15,
+    "board": [
+      ["F", "B", "B", "H", null, "I"],
+      ["F", null, "G", "H", null, "I"],
+      ["R", "R", "G", null, null, "J"],
+      ["C", "C", "D", "D", null, "J"],
+      ["E", "E", "E", null, null, "J"],
+      [null, null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 302,
+    "exit": [3, 6],
+    "min_num_moves": 15,
+    "board": [
+      [null, null, "H", null, null, "K"],
+      [null, null, "H", "B", "B", "K"],
+      [null, "R", "R", "I", "J", "K"],
+      [null, "C", "C", "I", "J", null],
+      [null, "G", "D", "D", "E", "E"],
+      [null, "G", null, null, "F", "F"]
+    ]
+  },
+  {
+    "name": 303,
+    "exit": [3, 6],
+    "min_num_moves": 15,
+    "board": [
+      ["E", null, null, null, "I", null],
+      ["E", null, null, "H", "I", "J"],
+      ["E", "R", "R", "H", "I", "J"],
+      [null, "F", "G", null, null, null],
+      [null, "F", "G", "B", "B", "B"],
+      ["C", "C", "D", "D", null, null]
+    ]
+  },
+  {
+    "name": 304,
+    "exit": [3, 6],
+    "min_num_moves": 15,
+    "board": [
+      ["I", "B", "B", "C", "C", null],
+      ["I", null, "D", "D", "K", null],
+      ["R", "R", null, "J", "K", null],
+      ["E", "E", "E", "J", "F", "F"],
+      [null, null, null, "J", null, "L"],
+      ["G", "G", "H", "H", null, "L"]
+    ]
+  },
+  {
+    "name": 305,
+    "exit": [3, 6],
+    "min_num_moves": 15,
+    "board": [
+      ["B", "B", "H", "J", null, null],
+      ["G", null, "H", "J", null, null],
+      ["G", "R", "R", "J", null, null],
+      ["G", "C", "C", "D", "D", null],
+      [null, null, "I", "E", "E", null],
+      [null, null, "I", "F", "F", "F"]
+    ]
+  },
+  {
+    "name": 306,
+    "exit": [3, 6],
+    "min_num_moves": 15,
+    "board": [
+      [null, null, null, "G", "B", "B"],
+      [null, null, null, "G", "H", "I"],
+      [null, "R", "R", "G", "H", "I"],
+      [null, "C", "C", "C", null, "I"],
+      [null, null, "F", "D", "D", "D"],
+      [null, null, "F", "E", "E", null]
+    ]
+  },
+  {
+    "name": 307,
+    "exit": [3, 6],
+    "min_num_moves": 15,
+    "board": [
+      [null, "F", "G", null, null, null],
+      [null, "F", "G", "H", "B", "B"],
+      ["D", "R", "R", "H", "J", "K"],
+      ["D", null, null, "I", "J", "K"],
+      ["E", null, null, "I", null, "L"],
+      ["E", "C", "C", "C", null, "L"]
+    ]
+  },
+  {
+    "name": 308,
+    "exit": [3, 6],
+    "min_num_moves": 15,
+    "board": [
+      ["G", "B", "B", "C", "C", null],
+      ["G", null, "H", "I", null, null],
+      ["R", "R", "H", "I", null, null],
+      ["D", "D", "D", "I", null, null],
+      [null, null, null, null, null, null],
+      ["E", "E", "E", "F", "F", null]
+    ]
+  },
+  {
+    "name": 309,
+    "exit": [3, 6],
+    "min_num_moves": 15,
+    "board": [
+      ["H", "I", "B", "B", "C", "C"],
+      ["H", "I", null, "J", "K", "M"],
+      ["H", "R", "R", "J", "K", "M"],
+      ["D", "D", "E", "E", "L", "N"],
+      [null, null, "F", "F", "L", "N"],
+      [null, null, "G", "G", "G", null]
+    ]
+  },
+  {
+    "name": 310,
+    "exit": [3, 6],
+    "min_num_moves": 15,
+    "board": [
+      ["F", null, null, null, "I", null],
+      ["F", null, "B", "B", "I", "J"],
+      ["R", "R", "G", null, "I", "J"],
+      [null, null, "G", "C", "C", null],
+      ["D", "D", "D", "H", null, null],
+      [null, "E", "E", "H", null, null]
+    ]
+  },
+  {
+    "name": 311,
+    "exit": [3, 6],
+    "min_num_moves": 15,
+    "board": [
+      ["F", null, "B", "B", "C", "C"],
+      ["F", null, "G", null, null, "K"],
+      ["R", "R", "G", "H", "J", "K"],
+      ["D", "D", "D", "H", "J", "K"],
+      [null, null, null, "I", null, null],
+      [null, null, null, "I", "E", "E"]
+    ]
+  },
+  {
+    "name": 312,
+    "exit": [3, 6],
+    "min_num_moves": 15,
+    "board": [
+      ["B", "B", "C", "C", "K", "L"],
+      [null, "D", "D", "J", "K", "L"],
+      ["R", "R", "H", "J", null, null],
+      ["E", "E", "H", "J", "F", "F"],
+      [null, null, "I", null, null, null],
+      [null, null, "I", "G", "G", null]
+    ]
+  },
+  {
+    "name": 313,
+    "exit": [3, 6],
+    "min_num_moves": 15,
+    "board": [
+      ["E", "G", "B", "B", "B", "J"],
+      ["E", "G", null, null, null, "J"],
+      ["F", "R", "R", "I", null, null],
+      ["F", "C", "C", "I", null, "K"],
+      ["F", null, "H", "D", "D", "K"],
+      [null, null, "H", null, null, null]
+    ]
+  },
+  {
+    "name": 314,
+    "exit": [3, 6],
+    "min_num_moves": 15,
+    "board": [
+      ["B", "B", "H", null, null, "K"],
+      [null, "F", "H", null, null, "K"],
+      [null, "F", "R", "R", null, "K"],
+      [null, "G", "I", "C", "C", "C"],
+      [null, "G", "I", "J", "D", "D"],
+      [null, null, null, "J", "E", "E"]
+    ]
+  },
+  {
+    "name": 315,
+    "exit": [3, 6],
+    "min_num_moves": 15,
+    "board": [
+      [null, "B", "B", "I", "C", "C"],
+      [null, null, null, "I", "J", null],
+      [null, "R", "R", null, "J", null],
+      ["D", "D", "E", "E", "J", null],
+      [null, null, "H", "F", "F", null],
+      [null, null, "H", "G", "G", "G"]
+    ]
+  },
+  {
+    "name": 316,
+    "exit": [3, 6],
+    "min_num_moves": 15,
+    "board": [
+      [null, "F", "B", "B", "B", null],
+      [null, "F", "H", null, null, null],
+      ["R", "R", "H", "I", null, null],
+      [null, "G", "H", "I", "C", "C"],
+      [null, "G", "D", "D", "J", null],
+      ["E", "E", "E", null, "J", null]
+    ]
+  },
+  {
+    "name": 317,
+    "exit": [3, 6],
+    "min_num_moves": 15,
+    "board": [
+      ["B", "B", "B", "C", "C", "L"],
+      [null, null, null, null, null, "L"],
+      [null, null, "J", "R", "R", "L"],
+      ["D", "D", "J", "K", null, null],
+      ["I", "E", "E", "K", "F", "F"],
+      ["I", null, "G", "G", "H", "H"]
+    ]
+  },
+  {
+    "name": 318,
+    "exit": [3, 6],
+    "min_num_moves": 15,
+    "board": [
+      ["E", null, null, "H", "I", "J"],
+      ["E", "B", "B", "H", "I", "J"],
+      ["R", "R", "G", null, null, "K"],
+      [null, "F", "G", null, null, "K"],
+      [null, "F", "C", "C", "C", "K"],
+      [null, "F", null, null, "D", "D"]
+    ]
+  },
+  {
+    "name": 319,
+    "exit": [3, 6],
+    "min_num_moves": 15,
+    "board": [
+      [null, "H", "B", "B", "C", "C"],
+      [null, "H", "I", null, "K", null],
+      ["R", "R", "I", "J", "K", null],
+      ["G", null, "I", "J", "D", "D"],
+      ["G", "E", "E", null, null, "L"],
+      ["G", "F", "F", null, null, "L"]
+    ]
+  },
+  {
+    "name": 320,
+    "exit": [3, 6],
+    "min_num_moves": 15,
+    "board": [
+      [null, "E", "B", "B", "H", "I"],
+      ["D", "E", null, "G", "H", "I"],
+      ["D", "R", "R", "G", null, "I"],
+      [null, null, "F", "C", "C", "C"],
+      [null, null, "F", null, null, null],
+      [null, null, "F", null, null, null]
+    ]
+  },
+  {
+    "name": 321,
+    "exit": [3, 6],
+    "min_num_moves": 15,
+    "board": [
+      ["D", null, "F", "B", "B", "B"],
+      ["D", null, "F", "G", "H", "I"],
+      ["D", "R", "R", "G", "H", "I"],
+      [null, "E", null, null, null, "J"],
+      [null, "E", "C", "C", "C", "J"],
+      [null, null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 322,
+    "exit": [3, 6],
+    "min_num_moves": 15,
+    "board": [
+      ["G", null, "J", "B", "B", "B"],
+      ["G", "I", "J", null, "K", "L"],
+      ["G", "I", "R", "R", "K", "L"],
+      ["H", "I", "C", "C", "D", "D"],
+      ["H", null, null, null, null, "M"],
+      ["E", "E", "E", "F", "F", "M"]
+    ]
+  },
+  {
+    "name": 323,
+    "exit": [3, 6],
+    "min_num_moves": 16,
+    "board": [
+      [null, "E", "B", "B", "I", "J"],
+      [null, "E", "F", "G", "I", "J"],
+      ["R", "R", "F", "G", null, "K"],
+      [null, null, "F", null, null, "K"],
+      ["D", null, null, "H", null, null],
+      ["D", "C", "C", "H", null, null]
+    ]
+  },
+  {
+    "name": 324,
+    "exit": [3, 6],
+    "min_num_moves": 16,
+    "board": [
+      [null, null, null, null, null, null],
+      [null, "F", "G", null, null, "J"],
+      [null, "F", "G", "R", "R", "J"],
+      ["B", "B", "B", "I", null, "J"],
+      ["E", null, "H", "I", "C", "C"],
+      ["E", null, "H", "I", "D", "D"]
+    ]
+  },
+  {
+    "name": 325,
+    "exit": [3, 6],
+    "min_num_moves": 16,
+    "board": [
+      [null, "B", "B", "C", "C", null],
+      ["D", "D", "E", "E", "L", null],
+      ["H", "I", "R", "R", "L", null],
+      ["H", "I", null, null, "L", null],
+      ["H", "I", "J", "K", "F", "F"],
+      ["G", "G", "J", "K", null, null]
+    ]
+  },
+  {
+    "name": 326,
+    "exit": [3, 6],
+    "min_num_moves": 16,
+    "board": [
+      ["B", "B", "B", "C", "C", "K"],
+      ["F", null, null, null, "J", "K"],
+      ["F", "R", "R", "H", "J", null],
+      ["D", "D", "G", "H", "J", null],
+      [null, null, "G", "I", null, null],
+      [null, null, "G", "I", "E", "E"]
+    ]
+  },
+  {
+    "name": 327,
+    "exit": [3, 6],
+    "min_num_moves": 16,
+    "board": [
+      ["F", null, null, null, "I", null],
+      ["F", "B", "B", null, "I", "J"],
+      ["R", "R", "H", null, "I", "J"],
+      ["G", null, "H", null, "C", "C"],
+      ["G", "D", "D", "D", null, "K"],
+      ["E", "E", "E", null, null, "K"]
+    ]
+  },
+  {
+    "name": 328,
+    "exit": [3, 6],
+    "min_num_moves": 16,
+    "board": [
+      [null, null, null, null, "I", null],
+      ["B", "B", "C", "C", "I", null],
+      ["F", "R", "R", null, "I", null],
+      ["F", "G", "H", null, "D", "D"],
+      ["F", "G", "H", null, null, "J"],
+      ["E", "E", "E", null, null, "J"]
+    ]
+  },
+  {
+    "name": 329,
+    "exit": [3, 6],
+    "min_num_moves": 16,
+    "board": [
+      [null, null, null, null, null, "J"],
+      ["B", "B", "C", "C", "C", "J"],
+      [null, "G", "R", "R", "I", "K"],
+      [null, "G", "H", null, "I", "K"],
+      [null, null, "H", null, "D", "D"],
+      [null, "E", "E", "E", "F", "F"]
+    ]
+  },
+  {
+    "name": 330,
+    "exit": [3, 6],
+    "min_num_moves": 16,
+    "board": [
+      ["B", "B", "B", null, "H", "I"],
+      ["E", "C", "C", null, "H", "I"],
+      ["E", "R", "R", null, "H", "J"],
+      ["F", null, "G", null, null, "J"],
+      ["F", null, "G", "D", "D", "D"],
+      ["F", null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 331,
+    "exit": [3, 6],
+    "min_num_moves": 16,
+    "board": [
+      [null, null, null, "I", null, null],
+      [null, null, "H", "I", "B", "B"],
+      ["R", "R", "H", "I", "J", "L"],
+      ["G", "C", "C", null, "J", "L"],
+      ["G", "D", "D", null, "K", "M"],
+      ["E", "E", "F", "F", "K", "M"]
+    ]
+  },
+  {
+    "name": 332,
+    "exit": [3, 6],
+    "min_num_moves": 16,
+    "board": [
+      ["B", "B", "C", "C", "K", null],
+      [null, "D", "D", "D", "K", null],
+      [null, "R", "R", "I", "K", null],
+      [null, null, "H", "I", "E", "E"],
+      [null, null, "H", "J", "F", "F"],
+      [null, "G", "G", "J", null, null]
+    ]
+  },
+  {
+    "name": 333,
+    "exit": [3, 6],
+    "min_num_moves": 16,
+    "board": [
+      ["I", "B", "B", "B", null, "N"],
+      ["I", "C", "C", "D", "D", "N"],
+      ["J", null, "R", "R", "M", "N"],
+      ["J", "E", "E", "L", "M", null],
+      [null, "K", null, "L", "F", "F"],
+      [null, "K", "G", "G", "H", "H"]
+    ]
+  },
+  {
+    "name": 334,
+    "exit": [3, 6],
+    "min_num_moves": 16,
+    "board": [
+      ["H", null, null, "L", "B", "B"],
+      ["H", "C", "C", "L", "D", "D"],
+      ["I", "J", "R", "R", "M", null],
+      ["I", "J", null, null, "M", "N"],
+      [null, "J", "K", "E", "E", "N"],
+      ["F", "F", "K", "G", "G", null]
+    ]
+  },
+  {
+    "name": 335,
+    "exit": [3, 6],
+    "min_num_moves": 16,
+    "board": [
+      ["F", "G", "B", "B", "B", "K"],
+      ["F", "G", "C", "C", "J", "K"],
+      ["F", "R", "R", "I", "J", "K"],
+      [null, null, null, "I", null, null],
+      [null, null, "H", "D", "D", "D"],
+      ["E", "E", "H", null, null, null]
+    ]
+  },
+  {
+    "name": 336,
+    "exit": [3, 6],
+    "min_num_moves": 16,
+    "board": [
+      ["B", "B", "C", "C", null, "M"],
+      ["I", null, "D", "D", null, "M"],
+      ["I", "R", "R", "L", null, "M"],
+      ["I", null, "K", "L", "E", "E"],
+      ["J", null, "K", "F", "F", "F"],
+      ["J", "G", "G", "G", "H", "H"]
+    ]
+  },
+  {
+    "name": 337,
+    "exit": [3, 6],
+    "min_num_moves": 16,
+    "board": [
+      ["B", "B", null, "H", "C", "C"],
+      ["D", "D", "D", "H", null, "J"],
+      [null, null, "G", "R", "R", "J"],
+      [null, null, "G", "E", "E", "J"],
+      [null, null, "G", "I", null, null],
+      [null, null, null, "I", "F", "F"]
+    ]
+  },
+  {
+    "name": 338,
+    "exit": [3, 6],
+    "min_num_moves": 16,
+    "board": [
+      ["B", "B", "J", "C", "C", null],
+      ["D", "D", "J", null, null, null],
+      ["H", "I", "R", "R", "K", "L"],
+      ["H", "I", "E", "E", "K", "L"],
+      [null, "I", "F", "F", "F", "L"],
+      ["G", "G", null, null, null, null]
+    ]
+  },
+  {
+    "name": 339,
+    "exit": [3, 6],
+    "min_num_moves": 16,
+    "board": [
+      ["G", "B", "B", "B", null, "L"],
+      ["G", "C", "C", "C", "K", "L"],
+      ["R", "R", "I", "J", "K", "L"],
+      ["H", null, "I", "J", "D", "D"],
+      ["H", "E", "E", "E", null, null],
+      ["F", "F", "F", null, null, null]
+    ]
+  },
+  {
+    "name": 340,
+    "exit": [3, 6],
+    "min_num_moves": 16,
+    "board": [
+      [null, null, "F", "G", "B", "B"],
+      [null, null, "F", "G", "H", "I"],
+      ["R", "R", "F", null, "H", "I"],
+      [null, "C", "C", null, null, "J"],
+      ["D", "D", "D", null, null, "J"],
+      ["E", "E", "E", null, null, null]
+    ]
+  },
+  {
+    "name": 341,
+    "exit": [3, 6],
+    "min_num_moves": 16,
+    "board": [
+      ["B", "B", "B", null, "J", "K"],
+      [null, null, null, null, "J", "K"],
+      ["R", "R", null, null, "J", "K"],
+      ["G", "H", "C", "C", "C", null],
+      ["G", "H", null, "I", "D", "D"],
+      [null, "E", "E", "I", "F", "F"]
+    ]
+  },
+  {
+    "name": 342,
+    "exit": [3, 6],
+    "min_num_moves": 16,
+    "board": [
+      ["B", "B", "B", "C", "C", "J"],
+      [null, null, null, "I", null, "J"],
+      ["R", "R", null, "I", null, null],
+      ["H", "D", "D", "E", "E", "E"],
+      ["H", "F", "F", "G", "G", "G"],
+      ["H", null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 343,
+    "exit": [3, 6],
+    "min_num_moves": 16,
+    "board": [
+      [null, "H", null, "B", "B", "B"],
+      [null, "H", null, "I", "C", "C"],
+      ["G", "R", "R", "I", "J", "L"],
+      ["G", null, null, "I", "J", "L"],
+      ["G", "D", "D", "D", "K", "M"],
+      ["E", "E", "F", "F", "K", "M"]
+    ]
+  },
+  {
+    "name": 344,
+    "exit": [3, 6],
+    "min_num_moves": 16,
+    "board": [
+      [null, "B", "B", null, "C", "C"],
+      [null, null, "K", null, null, "L"],
+      ["R", "R", "K", null, null, "L"],
+      ["D", "D", "E", "E", "E", "L"],
+      ["J", "F", "F", "F", "G", "G"],
+      ["J", "H", "H", "H", "I", "I"]
+    ]
+  },
+  {
+    "name": 345,
+    "exit": [3, 6],
+    "min_num_moves": 16,
+    "board": [
+      ["I", "B", "B", null, "C", "C"],
+      ["I", null, "K", null, null, "M"],
+      ["J", null, "K", "R", "R", "M"],
+      ["J", "D", "D", "E", "E", "M"],
+      ["J", "F", "F", "L", "G", "G"],
+      ["H", "H", null, "L", null, null]
+    ]
+  },
+  {
+    "name": 346,
+    "exit": [3, 6],
+    "min_num_moves": 16,
+    "board": [
+      ["H", null, "K", "B", "B", "B"],
+      ["H", "J", "K", null, "L", "M"],
+      ["H", "J", "R", "R", "L", "M"],
+      ["I", "J", "C", "C", "D", "D"],
+      ["I", null, "E", "E", "E", "N"],
+      ["F", "F", "F", "G", "G", "N"]
+    ]
+  },
+  {
+    "name": 347,
+    "exit": [3, 6],
+    "min_num_moves": 17,
+    "board": [
+      ["F", "G", "H", "J", "B", "B"],
+      ["F", "G", "H", "J", null, "K"],
+      [null, "G", "R", "R", null, "K"],
+      ["C", "C", "C", null, null, "L"],
+      ["D", "D", "I", null, null, "L"],
+      ["E", "E", "I", null, null, null]
+    ]
+  },
+  {
+    "name": 348,
+    "exit": [3, 6],
+    "min_num_moves": 17,
+    "board": [
+      ["B", "B", "F", null, null, null],
+      ["E", null, "F", "C", "C", "C"],
+      ["E", "R", "R", "G", "H", "J"],
+      [null, null, null, "G", "H", "J"],
+      ["D", "D", null, null, "I", null],
+      [null, null, null, null, "I", null]
+    ]
+  },
+  {
+    "name": 349,
+    "exit": [3, 6],
+    "min_num_moves": 17,
+    "board": [
+      [null, "B", "B", "B", null, "K"],
+      [null, "C", "C", "C", "J", "K"],
+      [null, "R", "R", "I", "J", "L"],
+      ["D", "D", "D", "I", null, "L"],
+      [null, null, "H", "I", "E", "E"],
+      ["F", "F", "H", null, "G", "G"]
+    ]
+  },
+  {
+    "name": 350,
+    "exit": [3, 6],
+    "min_num_moves": 17,
+    "board": [
+      [null, null, "H", "I", "B", "B"],
+      ["G", null, "H", "I", "K", "L"],
+      ["G", "R", "R", null, "K", "L"],
+      ["C", "C", "D", "D", "K", null],
+      [null, null, null, "J", "E", "E"],
+      [null, "F", "F", "J", null, null]
+    ]
+  },
+  {
+    "name": 351,
+    "exit": [3, 6],
+    "min_num_moves": 17,
+    "board": [
+      [null, "E", "F", "H", "B", "B"],
+      [null, "E", "F", "H", null, null],
+      [null, "E", "R", "R", "I", "K"],
+      ["C", "C", "G", null, "I", "K"],
+      [null, null, "G", null, "J", "L"],
+      ["D", "D", "D", null, "J", "L"]
+    ]
+  },
+  {
+    "name": 352,
+    "exit": [3, 6],
+    "min_num_moves": 17,
+    "board": [
+      ["B", "B", "E", "G", "H", "I"],
+      [null, null, "E", "G", "H", "I"],
+      ["R", "R", "F", null, "H", "I"],
+      ["D", null, "F", null, null, null],
+      ["D", "C", "C", null, null, null],
+      [null, null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 353,
+    "exit": [3, 6],
+    "min_num_moves": 17,
+    "board": [
+      [null, "B", "B", null, "I", null],
+      [null, "C", "C", "C", "I", null],
+      ["R", "R", "G", null, "I", "J"],
+      [null, null, "G", "D", "D", "J"],
+      ["E", "E", "E", "H", null, null],
+      [null, "F", "F", "H", null, null]
+    ]
+  },
+  {
+    "name": 354,
+    "exit": [3, 6],
+    "min_num_moves": 17,
+    "board": [
+      [null, "E", "F", null, null, null],
+      [null, "E", "F", "B", "B", null],
+      ["R", "R", "G", "H", null, null],
+      ["D", null, "G", "H", "J", null],
+      ["D", "C", "C", "I", "J", null],
+      ["D", null, null, "I", null, null]
+    ]
+  },
+  {
+    "name": 355,
+    "exit": [3, 6],
+    "min_num_moves": 17,
+    "board": [
+      [null, null, "H", "B", "B", "B"],
+      ["E", null, "H", null, "J", "K"],
+      ["E", "R", "R", "I", "J", "K"],
+      ["C", "C", null, "I", "J", null],
+      ["F", "G", null, null, null, null],
+      ["F", "G", "D", "D", "D", null]
+    ]
+  },
+  {
+    "name": 356,
+    "exit": [3, 6],
+    "min_num_moves": 17,
+    "board": [
+      ["B", "B", "B", null, "I", "J"],
+      [null, null, "H", null, "I", "J"],
+      ["R", "R", "H", null, "I", "K"],
+      ["C", "C", "C", null, null, "K"],
+      ["G", "D", "D", "E", "E", "K"],
+      ["G", null, null, "F", "F", null]
+    ]
+  },
+  {
+    "name": 357,
+    "exit": [3, 6],
+    "min_num_moves": 17,
+    "board": [
+      [null, "H", null, null, null, "K"],
+      [null, "H", "B", "B", "B", "K"],
+      ["R", "R", "I", "J", null, "K"],
+      ["C", "C", "I", "J", "D", "D"],
+      ["G", "E", "E", "E", null, null],
+      ["G", "F", "F", "F", null, null]
+    ]
+  },
+  {
+    "name": 358,
+    "exit": [3, 6],
+    "min_num_moves": 17,
+    "board": [
+      ["B", "B", "B", null, "I", "J"],
+      [null, null, null, null, "I", "J"],
+      [null, "R", "R", null, "I", "K"],
+      ["C", "C", "H", null, null, "K"],
+      ["G", null, "H", "D", "D", "K"],
+      ["G", "E", "E", "F", "F", null]
+    ]
+  },
+  {
+    "name": 359,
+    "exit": [3, 6],
+    "min_num_moves": 17,
+    "board": [
+      ["B", "B", "C", "C", "C", "K"],
+      ["H", "D", "D", null, "J", "K"],
+      ["H", "R", "R", null, "J", "L"],
+      ["H", null, "I", null, null, "L"],
+      [null, null, "I", null, "E", "E"],
+      ["F", "F", "G", "G", "G", null]
+    ]
+  },
+  {
+    "name": 360,
+    "exit": [3, 6],
+    "min_num_moves": 17,
+    "board": [
+      [null, "B", "B", "C", "C", "C"],
+      [null, null, null, "I", "D", "D"],
+      [null, "R", "R", "I", null, "J"],
+      [null, "E", "E", "E", null, "J"],
+      [null, null, "H", "F", "F", "J"],
+      [null, null, "H", null, "G", "G"]
+    ]
+  },
+  {
+    "name": 361,
+    "exit": [3, 6],
+    "min_num_moves": 17,
+    "board": [
+      [null, "B", "B", "J", "C", "C"],
+      [null, null, "I", "J", null, "K"],
+      ["R", "R", "I", null, null, "K"],
+      ["D", "D", "E", "E", "E", "K"],
+      ["H", "F", "F", "G", "G", "G"],
+      ["H", null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 362,
+    "exit": [3, 6],
+    "min_num_moves": 17,
+    "board": [
+      ["B", "B", null, "I", null, null],
+      ["F", null, null, "I", "J", "K"],
+      ["F", "R", "R", null, "J", "K"],
+      ["G", "C", "C", "C", "J", "K"],
+      ["G", null, "H", "D", "D", "D"],
+      ["G", null, "H", "E", "E", "E"]
+    ]
+  },
+  {
+    "name": 363,
+    "exit": [3, 6],
+    "min_num_moves": 17,
+    "board": [
+      ["I", null, null, "L", "B", "B"],
+      ["I", "K", null, "L", "M", null],
+      ["J", "K", "R", "R", "M", null],
+      ["J", "C", "C", "C", "D", "D"],
+      ["E", "E", "F", "F", null, "N"],
+      ["G", "G", "H", "H", null, "N"]
+    ]
+  },
+  {
+    "name": 364,
+    "exit": [3, 6],
+    "min_num_moves": 17,
+    "board": [
+      ["E", "B", "B", "I", "K", null],
+      ["E", null, "G", "I", "K", null],
+      ["R", "R", "G", "J", "K", null],
+      [null, "F", "H", "J", "C", "C"],
+      [null, "F", "H", null, null, null],
+      [null, "F", "D", "D", null, null]
+    ]
+  },
+  {
+    "name": 365,
+    "exit": [3, 6],
+    "min_num_moves": 17,
+    "board": [
+      ["B", "B", "B", "K", null, null],
+      [null, "C", "C", "K", "D", "D"],
+      ["R", "R", "I", "K", null, null],
+      [null, null, "I", null, null, "L"],
+      ["G", "H", "J", "E", "E", "L"],
+      ["G", "H", "J", "F", "F", "F"]
+    ]
+  },
+  {
+    "name": 366,
+    "exit": [3, 6],
+    "min_num_moves": 17,
+    "board": [
+      ["E", null, null, null, null, null],
+      ["E", "B", "B", "H", "I", "J"],
+      ["R", "R", "G", "H", "I", "J"],
+      ["C", "C", "G", null, "I", null],
+      [null, "F", null, null, null, "K"],
+      [null, "F", "D", "D", "D", "K"]
+    ]
+  },
+  {
+    "name": 367,
+    "exit": [3, 6],
+    "min_num_moves": 17,
+    "board": [
+      ["B", "B", "B", "I", null, "J"],
+      [null, null, "G", "I", null, "J"],
+      ["R", "R", "G", null, null, "J"],
+      [null, "F", "H", null, null, null],
+      [null, "F", "H", "C", "C", null],
+      [null, "D", "D", "E", "E", "E"]
+    ]
+  },
+  {
+    "name": 368,
+    "exit": [3, 6],
+    "min_num_moves": 17,
+    "board": [
+      ["F", "B", "B", "H", "I", "K"],
+      ["F", null, "G", "H", "I", "K"],
+      ["R", "R", "G", null, "J", "L"],
+      ["C", "C", "C", null, "J", "L"],
+      ["D", "D", null, null, null, "L"],
+      [null, "E", "E", "E", null, null]
+    ]
+  },
+  {
+    "name": 369,
+    "exit": [3, 6],
+    "min_num_moves": 17,
+    "board": [
+      ["F", null, "B", "B", "C", "C"],
+      ["F", null, "I", null, null, "K"],
+      ["R", "R", "I", null, "J", "K"],
+      ["D", "D", "D", null, "J", "K"],
+      ["G", "H", null, null, null, null],
+      ["G", "H", null, "E", "E", "E"]
+    ]
+  },
+  {
+    "name": 370,
+    "exit": [3, 6],
+    "min_num_moves": 17,
+    "board": [
+      ["B", "B", "J", "C", "C", "M"],
+      ["G", null, "J", "K", "L", "M"],
+      ["G", "R", "R", "K", "L", "M"],
+      ["H", "I", null, "D", "D", "D"],
+      ["H", "I", null, null, null, null],
+      ["H", "E", "E", "E", "F", "F"]
+    ]
+  },
+  {
+    "name": 371,
+    "exit": [3, 6],
+    "min_num_moves": 18,
+    "board": [
+      [null, null, "J", "B", "B", "M"],
+      ["C", "C", "J", "K", "L", "M"],
+      ["I", "R", "R", "K", "L", "N"],
+      ["I", "D", "D", null, null, "N"],
+      ["I", "E", "E", "E", "F", "F"],
+      ["G", "G", "G", "H", "H", null]
+    ]
+  },
+  {
+    "name": 372,
+    "exit": [3, 6],
+    "min_num_moves": 18,
+    "board": [
+      ["F", "G", null, null, "I", null],
+      ["F", "G", "B", "B", "I", "K"],
+      ["F", "R", "R", null, "J", "K"],
+      [null, null, "H", null, "J", "L"],
+      [null, null, "H", "C", "C", "L"],
+      ["D", "D", "D", "E", "E", "L"]
+    ]
+  },
+  {
+    "name": 373,
+    "exit": [3, 6],
+    "min_num_moves": 18,
+    "board": [
+      [null, "B", "B", null, "H", "I"],
+      ["C", "C", "C", null, "H", "I"],
+      ["R", "R", "F", null, "H", "J"],
+      ["E", null, "F", null, null, "J"],
+      ["E", null, "G", null, null, null],
+      ["E", null, "G", null, "D", "D"]
+    ]
+  },
+  {
+    "name": 374,
+    "exit": [3, 6],
+    "min_num_moves": 18,
+    "board": [
+      [null, null, "H", null, null, null],
+      ["E", null, "H", "B", "B", "B"],
+      ["E", "R", "R", "I", null, "J"],
+      ["F", "G", null, "I", null, "J"],
+      ["F", "G", "C", "C", "C", "J"],
+      [null, "G", null, null, "D", "D"]
+    ]
+  },
+  {
+    "name": 375,
+    "exit": [3, 6],
+    "min_num_moves": 18,
+    "board": [
+      ["H", "B", "B", "C", "C", null],
+      ["H", null, null, "J", "D", "D"],
+      ["H", "R", "R", "J", null, null],
+      ["E", "E", "I", "J", null, "K"],
+      [null, null, "I", "F", "F", "K"],
+      ["G", "G", "G", null, null, "K"]
+    ]
+  },
+  {
+    "name": 376,
+    "exit": [3, 6],
+    "min_num_moves": 18,
+    "board": [
+      ["G", "B", "B", "J", null, "K"],
+      ["G", null, "I", "J", null, "K"],
+      ["R", "R", "I", null, null, "L"],
+      ["C", "C", null, null, null, "L"],
+      ["H", "D", "D", "E", "E", "L"],
+      ["H", null, null, null, "F", "F"]
+    ]
+  },
+  {
+    "name": 377,
+    "exit": [3, 6],
+    "min_num_moves": 18,
+    "board": [
+      [null, "B", "B", "J", "C", "C"],
+      ["D", "D", null, "J", "K", "L"],
+      [null, "H", "R", "R", "K", "L"],
+      [null, "H", null, null, null, null],
+      [null, "H", "I", "E", "E", "E"],
+      ["F", "F", "I", "G", "G", null]
+    ]
+  },
+  {
+    "name": 378,
+    "exit": [3, 6],
+    "min_num_moves": 18,
+    "board": [
+      ["F", null, "I", null, null, null],
+      ["F", null, "I", "B", "B", "L"],
+      ["G", "R", "R", "J", null, "L"],
+      ["G", "H", null, "J", "K", "M"],
+      ["G", "H", "C", "C", "K", "M"],
+      ["D", "D", "E", "E", "E", "M"]
+    ]
+  },
+  {
+    "name": 379,
+    "exit": [3, 6],
+    "min_num_moves": 18,
+    "board": [
+      ["B", "B", null, null, "J", null],
+      ["C", "C", null, null, "J", "K"],
+      ["H", "R", "R", null, "J", "K"],
+      ["H", null, "I", "D", "D", "L"],
+      ["E", "E", "I", "F", "F", "L"],
+      ["G", "G", "G", null, null, "L"]
+    ]
+  },
+  {
+    "name": 380,
+    "exit": [3, 6],
+    "min_num_moves": 18,
+    "board": [
+      ["G", null, "I", null, "B", "B"],
+      ["G", null, "I", "C", "C", "K"],
+      ["G", "R", "R", "J", null, "K"],
+      [null, "H", null, "J", null, "L"],
+      [null, "H", "D", "D", null, "L"],
+      ["E", "E", "E", "F", "F", "L"]
+    ]
+  },
+  {
+    "name": 381,
+    "exit": [3, 6],
+    "min_num_moves": 18,
+    "board": [
+      ["F", "B", "B", "C", "C", "C"],
+      ["F", null, "G", null, null, null],
+      ["R", "R", "G", null, "I", null],
+      [null, null, null, "H", "I", "J"],
+      ["D", "D", "D", "H", "I", "J"],
+      [null, null, "E", "E", "E", null]
+    ]
+  },
+  {
+    "name": 382,
+    "exit": [3, 6],
+    "min_num_moves": 18,
+    "board": [
+      ["B", "B", "B", "C", "C", "L"],
+      ["D", "D", null, null, "K", "L"],
+      ["G", "R", "R", "I", "K", "L"],
+      ["G", null, "H", "I", "K", null],
+      ["E", "E", "H", "J", null, null],
+      [null, null, "H", "J", "F", "F"]
+    ]
+  },
+  {
+    "name": 383,
+    "exit": [3, 6],
+    "min_num_moves": 18,
+    "board": [
+      ["G", "B", "B", "J", "C", "C"],
+      ["G", "D", "D", "J", "K", "L"],
+      ["G", "H", "R", "R", "K", "L"],
+      [null, "H", "E", "E", "K", "L"],
+      [null, "H", "I", null, null, null],
+      [null, null, "I", "F", "F", null]
+    ]
+  },
+  {
+    "name": 384,
+    "exit": [3, 6],
+    "min_num_moves": 18,
+    "board": [
+      ["B", "B", "B", null, null, "H"],
+      [null, null, "F", null, null, "H"],
+      [null, null, "F", "R", "R", "H"],
+      ["C", "C", "C", "G", "D", "D"],
+      [null, null, null, "G", "E", "E"],
+      [null, null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 385,
+    "exit": [3, 6],
+    "min_num_moves": 18,
+    "board": [
+      ["B", "B", "B", "I", null, "K"],
+      [null, null, "H", "I", null, "K"],
+      ["R", "R", "H", null, null, null],
+      ["C", "C", "D", "D", "D", null],
+      ["G", "E", "E", "J", null, null],
+      ["G", null, null, "J", "F", "F"]
+    ]
+  },
+  {
+    "name": 386,
+    "exit": [3, 6],
+    "min_num_moves": 18,
+    "board": [
+      ["B", "B", "J", "C", "C", "M"],
+      ["G", null, "J", null, "L", "M"],
+      ["G", "R", "R", null, "L", null],
+      ["H", "I", "D", "D", "L", null],
+      ["H", "I", null, "K", "E", "E"],
+      ["H", "F", "F", "K", null, null]
+    ]
+  },
+  {
+    "name": 387,
+    "exit": [3, 6],
+    "min_num_moves": 18,
+    "board": [
+      ["F", "B", "B", "B", "J", null],
+      ["F", null, "G", "I", "J", null],
+      ["R", "R", "G", "I", null, null],
+      [null, null, "H", "I", "C", "C"],
+      [null, null, "H", null, null, null],
+      [null, "D", "D", "E", "E", null]
+    ]
+  },
+  {
+    "name": 388,
+    "exit": [3, 6],
+    "min_num_moves": 18,
+    "board": [
+      ["B", "B", "C", "C", "K", null],
+      [null, "D", "D", null, "K", "M"],
+      ["R", "R", "I", null, null, "M"],
+      ["G", "H", "I", "E", "E", null],
+      ["G", "H", "I", "J", "L", null],
+      ["F", "F", "F", "J", "L", null]
+    ]
+  },
+  {
+    "name": 389,
+    "exit": [3, 6],
+    "min_num_moves": 18,
+    "board": [
+      ["D", "B", "B", "H", "I", "K"],
+      ["D", null, null, "H", "I", "K"],
+      ["R", "R", "F", "H", "J", "K"],
+      [null, null, "F", null, "J", null],
+      [null, "E", "G", null, null, null],
+      [null, "E", "G", "C", "C", "C"]
+    ]
+  },
+  {
+    "name": 390,
+    "exit": [3, 6],
+    "min_num_moves": 18,
+    "board": [
+      ["B", "B", null, "H", null, null],
+      [null, "F", null, "H", "C", "C"],
+      [null, "F", "R", "R", "I", "K"],
+      ["D", "D", "G", null, "I", "K"],
+      [null, null, "G", null, "J", "K"],
+      [null, "E", "E", null, "J", null]
+    ]
+  },
+  {
+    "name": 391,
+    "exit": [3, 6],
+    "min_num_moves": 18,
+    "board": [
+      [null, null, "G", null, null, null],
+      ["E", null, "G", null, null, "I"],
+      ["E", null, "G", "R", "R", "I"],
+      ["F", "B", "B", "H", null, "I"],
+      ["F", null, null, "H", "C", "C"],
+      ["F", "D", "D", "D", null, null]
+    ]
+  },
+  {
+    "name": 392,
+    "exit": [3, 6],
+    "min_num_moves": 18,
+    "board": [
+      [null, null, "I", null, null, null],
+      [null, null, "I", "B", "B", "K"],
+      ["H", null, "I", "R", "R", "K"],
+      ["H", "C", "C", "D", "D", "K"],
+      [null, "E", "E", "J", "F", "F"],
+      ["G", "G", "G", "J", null, null]
+    ]
+  },
+  {
+    "name": 393,
+    "exit": [3, 6],
+    "min_num_moves": 18,
+    "board": [
+      ["B", "B", "H", "C", "C", "C"],
+      [null, null, "H", null, null, null],
+      ["R", "R", "H", "I", null, null],
+      ["F", "D", "D", "I", null, "J"],
+      ["F", "G", null, null, null, "J"],
+      ["F", "G", "E", "E", "E", "J"]
+    ]
+  },
+  {
+    "name": 394,
+    "exit": [3, 6],
+    "min_num_moves": 18,
+    "board": [
+      [null, "E", "B", "B", "B", "J"],
+      [null, "E", "C", "C", "I", "J"],
+      ["R", "R", "G", null, "I", "K"],
+      [null, "F", "G", null, "I", "K"],
+      [null, "F", "H", null, null, "K"],
+      [null, "F", "H", "D", "D", "D"]
+    ]
+  },
+  {
+    "name": 395,
+    "exit": [3, 6],
+    "min_num_moves": 19,
+    "board": [
+      ["I", "B", "B", null, "K", null],
+      ["I", "C", "C", null, "K", null],
+      ["R", "R", "J", null, null, null],
+      ["D", "D", "J", null, null, null],
+      ["E", "E", "E", "F", "F", null],
+      ["G", "G", "H", "H", null, null]
+    ]
+  },
+  {
+    "name": 396,
+    "exit": [3, 6],
+    "min_num_moves": 19,
+    "board": [
+      [null, null, "I", "B", "B", "B"],
+      ["C", "C", "I", "D", "D", "K"],
+      [null, "H", "R", "R", null, "K"],
+      [null, "H", "E", "E", null, "K"],
+      [null, null, null, "J", "F", "F"],
+      ["G", "G", null, "J", null, null]
+    ]
+  },
+  {
+    "name": 397,
+    "exit": [3, 6],
+    "min_num_moves": 19,
+    "board": [
+      [null, "E", "F", null, "B", "B"],
+      [null, "E", "F", null, "H", "J"],
+      [null, "E", "R", "R", "H", "J"],
+      ["C", "C", "C", null, "I", "J"],
+      [null, null, "G", null, "I", null],
+      ["D", "D", "G", null, null, null]
+    ]
+  },
+  {
+    "name": 398,
+    "exit": [3, 6],
+    "min_num_moves": 19,
+    "board": [
+      ["B", "B", "B", null, "J", "K"],
+      [null, null, "H", null, "J", "K"],
+      ["R", "R", "H", null, null, null],
+      ["C", "C", "I", "D", "D", null],
+      ["F", "G", "I", null, "E", "E"],
+      ["F", "G", null, null, null, null]
+    ]
+  },
+  {
+    "name": 399,
+    "exit": [3, 6],
+    "min_num_moves": 19,
+    "board": [
+      ["B", "B", "B", "H", "I", "J"],
+      [null, null, "G", "H", "I", "J"],
+      ["R", "R", "G", null, null, "K"],
+      ["C", "C", "C", null, null, "K"],
+      ["F", null, null, null, null, "K"],
+      ["F", "D", "D", "E", "E", "E"]
+    ]
+  },
+  {
+    "name": 400,
+    "exit": [3, 6],
+    "min_num_moves": 19,
+    "board": [
+      [null, "B", "B", "C", "C", "C"],
+      [null, null, null, "K", "D", "D"],
+      [null, "R", "R", "K", null, "L"],
+      ["E", "E", "J", "F", "F", "L"],
+      ["G", "G", "J", null, "H", "H"],
+      [null, null, "J", "I", "I", "I"]
+    ]
+  },
+  {
+    "name": 401,
+    "exit": [3, 6],
+    "min_num_moves": 19,
+    "board": [
+      ["H", "I", "B", "B", "C", "C"],
+      ["H", "I", null, "D", "D", "L"],
+      ["H", "R", "R", null, "K", "L"],
+      ["E", "E", "E", null, "K", "L"],
+      [null, null, "J", "F", "F", "F"],
+      [null, null, "J", null, "G", "G"]
+    ]
+  },
+  {
+    "name": 402,
+    "exit": [3, 6],
+    "min_num_moves": 19,
+    "board": [
+      [null, null, "F", "B", "B", "B"],
+      [null, null, "F", "H", null, null],
+      ["R", "R", "G", "H", null, null],
+      [null, "E", "G", "C", "C", "I"],
+      [null, "E", null, null, null, "I"],
+      [null, "E", "D", "D", null, "I"]
+    ]
+  },
+  {
+    "name": 403,
+    "exit": [3, 6],
+    "min_num_moves": 19,
+    "board": [
+      ["F", "B", "B", "J", null, null],
+      ["F", null, "H", "J", "C", "C"],
+      ["R", "R", "H", "K", "L", null],
+      [null, "G", "I", "K", "L", "M"],
+      [null, "G", "I", "D", "D", "M"],
+      [null, "G", "E", "E", null, null]
+    ]
+  },
+  {
+    "name": 404,
+    "exit": [3, 6],
+    "min_num_moves": 19,
+    "board": [
+      ["B", "B", "J", null, null, "L"],
+      ["H", null, "J", "C", "C", "L"],
+      ["H", "R", "R", "K", null, "M"],
+      ["I", "D", "D", "K", null, "M"],
+      ["I", null, null, "K", "E", "E"],
+      ["F", "F", "G", "G", null, null]
+    ]
+  },
+  {
+    "name": 405,
+    "exit": [3, 6],
+    "min_num_moves": 19,
+    "board": [
+      ["B", "B", "C", "C", "J", "L"],
+      [null, null, "H", "I", "J", "L"],
+      ["R", "R", "H", "I", "K", null],
+      ["F", "D", "D", "I", "K", null],
+      ["F", "G", null, null, null, null],
+      ["F", "G", null, "E", "E", "E"]
+    ]
+  },
+  {
+    "name": 406,
+    "exit": [3, 6],
+    "min_num_moves": 19,
+    "board": [
+      [null, "H", "I", "K", "B", "B"],
+      ["G", "H", "I", "K", "L", null],
+      ["G", "H", "R", "R", "L", "M"],
+      ["G", "C", "C", "D", "D", "M"],
+      [null, null, "J", null, "E", "E"],
+      ["F", "F", "J", null, null, null]
+    ]
+  },
+  {
+    "name": 407,
+    "exit": [3, 6],
+    "min_num_moves": 19,
+    "board": [
+      ["B", "B", "I", "C", "C", "C"],
+      ["D", "D", "I", "J", null, "K"],
+      ["G", "R", "R", "J", null, "K"],
+      ["G", "H", "E", "E", "E", "K"],
+      ["G", "H", null, null, null, null],
+      ["F", "F", null, null, null, null]
+    ]
+  },
+  {
+    "name": 408,
+    "exit": [3, 6],
+    "min_num_moves": 19,
+    "board": [
+      [null, null, "F", "G", "B", "B"],
+      [null, null, "F", "G", null, "I"],
+      ["R", "R", "F", null, null, "I"],
+      ["E", null, "C", "C", null, "J"],
+      ["E", null, null, "H", null, "J"],
+      ["E", "D", "D", "H", null, "J"]
+    ]
+  },
+  {
+    "name": 409,
+    "exit": [3, 6],
+    "min_num_moves": 19,
+    "board": [
+      ["B", "B", "C", "C", null, "J"],
+      ["F", null, null, null, null, "J"],
+      ["F", null, "R", "R", null, "K"],
+      ["G", "D", "D", "I", null, "K"],
+      ["G", null, "H", "I", null, "K"],
+      ["G", null, "H", "I", "E", "E"]
+    ]
+  },
+  {
+    "name": 410,
+    "exit": [3, 6],
+    "min_num_moves": 19,
+    "board": [
+      ["B", "B", "B", "C", "C", "K"],
+      ["D", "D", null, "I", "J", "K"],
+      ["R", "R", null, "I", "J", "L"],
+      ["H", "E", "E", "E", "J", "L"],
+      ["H", null, null, "F", "F", "F"],
+      ["H", "G", "G", "G", null, null]
+    ]
+  },
+  {
+    "name": 411,
+    "exit": [3, 6],
+    "min_num_moves": 19,
+    "board": [
+      ["B", "B", "G", "I", "C", "C"],
+      [null, null, "G", "I", "K", "L"],
+      [null, "R", "R", null, "K", "L"],
+      ["D", "D", "E", "E", "K", "L"],
+      [null, null, "H", "J", null, null],
+      [null, null, "H", "J", "F", "F"]
+    ]
+  },
+  {
+    "name": 412,
+    "exit": [3, 6],
+    "min_num_moves": 19,
+    "board": [
+      [null, "G", null, "I", "B", "B"],
+      [null, "G", null, "I", "J", "K"],
+      ["F", "G", "R", "R", "J", "K"],
+      ["F", null, "H", "C", "C", "L"],
+      ["D", "D", "H", null, null, "L"],
+      [null, "E", "E", null, null, "L"]
+    ]
+  },
+  {
+    "name": 413,
+    "exit": [3, 6],
+    "min_num_moves": 19,
+    "board": [
+      ["H", "B", "B", "B", null, null],
+      ["H", "C", "C", "C", "K", "L"],
+      [null, "I", "R", "R", "K", "L"],
+      [null, "I", "D", "D", "K", null],
+      [null, "I", null, "J", "E", "E"],
+      ["F", "F", null, "J", "G", "G"]
+    ]
+  },
+  {
+    "name": 414,
+    "exit": [3, 6],
+    "min_num_moves": 19,
+    "board": [
+      ["E", "B", "B", null, "H", null],
+      ["E", null, "F", null, "H", "J"],
+      ["R", "R", "F", "G", null, "J"],
+      ["C", "C", null, "G", "I", null],
+      ["D", "D", "D", "G", "I", null],
+      [null, null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 415,
+    "exit": [3, 6],
+    "min_num_moves": 19,
+    "board": [
+      ["G", "H", "B", "B", "B", null],
+      ["G", "H", "C", "C", "J", null],
+      ["G", "R", "R", null, "J", null],
+      ["D", "D", "I", null, "J", null],
+      [null, null, "I", "E", "E", null],
+      ["F", "F", null, null, null, null]
+    ]
+  },
+  {
+    "name": 416,
+    "exit": [3, 6],
+    "min_num_moves": 19,
+    "board": [
+      [null, "B", "B", null, null, "L"],
+      ["C", "C", "D", "D", "D", "L"],
+      ["H", "I", "R", "R", "K", "M"],
+      ["H", "I", null, null, "K", "M"],
+      ["H", null, "J", null, "E", "E"],
+      ["F", "F", "J", null, "G", "G"]
+    ]
+  },
+  {
+    "name": 417,
+    "exit": [3, 6],
+    "min_num_moves": 19,
+    "board": [
+      ["B", "B", "C", "C", "L", "M"],
+      ["D", "D", "D", "J", "L", "M"],
+      [null, "R", "R", "J", "L", null],
+      [null, null, "I", "K", "E", "E"],
+      [null, null, "I", "K", "F", "F"],
+      [null, "G", "G", "H", "H", null]
+    ]
+  },
+  {
+    "name": 418,
+    "exit": [3, 6],
+    "min_num_moves": 19,
+    "board": [
+      [null, "E", "B", "B", "B", "K"],
+      [null, "E", "C", "C", "J", "K"],
+      ["R", "R", "G", "I", "J", "L"],
+      [null, "F", "G", "I", "J", "L"],
+      [null, "F", "H", null, null, "L"],
+      [null, "F", "H", "D", "D", "D"]
+    ]
+  },
+  {
+    "name": 419,
+    "exit": [3, 6],
+    "min_num_moves": 20,
+    "board": [
+      ["B", "B", null, "I", "K", "L"],
+      ["F", "H", null, "I", "K", "L"],
+      ["F", "H", "R", "R", null, "L"],
+      ["G", "C", "C", "C", null, null],
+      ["G", null, null, "J", "D", "D"],
+      ["E", "E", null, "J", null, null]
+    ]
+  },
+  {
+    "name": 420,
+    "exit": [3, 6],
+    "min_num_moves": 20,
+    "board": [
+      ["B", "B", "B", null, null, "J"],
+      [null, null, "I", null, null, "J"],
+      ["R", "R", "I", null, null, "J"],
+      ["H", "C", "C", "C", "D", "D"],
+      ["H", "E", "E", "F", "F", "F"],
+      ["G", "G", "G", null, null, null]
+    ]
+  },
+  {
+    "name": 421,
+    "exit": [3, 6],
+    "min_num_moves": 20,
+    "board": [
+      ["F", "B", "B", "I", "C", "C"],
+      ["F", "D", "D", "I", null, "J"],
+      ["F", null, "H", "R", "R", "J"],
+      ["G", null, "H", null, null, "K"],
+      ["G", "E", "E", null, null, "K"],
+      [null, null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 422,
+    "exit": [3, 6],
+    "min_num_moves": 20,
+    "board": [
+      ["B", "B", "B", "H", "I", "J"],
+      ["C", "C", null, "H", "I", "J"],
+      ["F", "R", "R", "H", null, "K"],
+      ["F", null, "G", null, null, "K"],
+      [null, null, "G", "D", "D", "D"],
+      [null, "E", "E", "E", null, null]
+    ]
+  },
+  {
+    "name": 423,
+    "exit": [3, 6],
+    "min_num_moves": 20,
+    "board": [
+      [null, "B", "B", "I", "J", "K"],
+      ["C", "C", "C", "I", "J", "K"],
+      ["R", "R", "G", null, "J", "L"],
+      [null, "F", "G", null, null, "L"],
+      ["E", "F", "H", null, null, null],
+      ["E", "F", "H", null, "D", "D"]
+    ]
+  },
+  {
+    "name": 424,
+    "exit": [3, 6],
+    "min_num_moves": 20,
+    "board": [
+      ["G", "B", "B", "C", "C", "C"],
+      ["G", null, "I", "D", "D", "D"],
+      ["R", "R", "I", null, "J", "K"],
+      [null, "H", "E", "E", "J", "K"],
+      [null, "H", "F", "F", "J", null],
+      [null, null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 425,
+    "exit": [3, 6],
+    "min_num_moves": 20,
+    "board": [
+      [null, null, "G", null, null, "K"],
+      [null, null, "G", "B", "B", "K"],
+      ["R", "R", "H", "I", null, "K"],
+      ["C", "C", "H", "I", "J", null],
+      ["F", "D", "D", "I", "J", null],
+      ["F", "E", "E", "E", null, null]
+    ]
+  },
+  {
+    "name": 426,
+    "exit": [3, 6],
+    "min_num_moves": 20,
+    "board": [
+      ["H", "B", "B", "B", "C", "C"],
+      ["H", "I", null, null, null, "L"],
+      ["H", "I", "R", "R", null, "L"],
+      ["D", "D", "J", "K", null, "L"],
+      [null, null, "J", "K", "E", "E"],
+      [null, "F", "F", "G", "G", null]
+    ]
+  },
+  {
+    "name": 427,
+    "exit": [3, 6],
+    "min_num_moves": 20,
+    "board": [
+      ["E", "F", "G", null, "B", "B"],
+      ["E", "F", "G", null, "I", "K"],
+      [null, "F", "R", "R", "I", "K"],
+      ["C", "C", "C", null, "J", "K"],
+      [null, null, "H", null, "J", null],
+      ["D", "D", "H", null, null, null]
+    ]
+  },
+  {
+    "name": 428,
+    "exit": [3, 6],
+    "min_num_moves": 20,
+    "board": [
+      ["G", "B", "B", "C", "C", null],
+      ["G", null, "H", "I", "D", "D"],
+      ["R", "R", "H", "I", "J", null],
+      [null, "E", "E", null, "J", null],
+      ["F", "F", "F", null, "J", null],
+      [null, null, null, null, null, null]
+    ]
+  },
+  {
+    "name": 429,
+    "exit": [3, 6],
+    "min_num_moves": 20,
+    "board": [
+      ["B", "B", "J", "C", "C", "L"],
+      ["I", null, "J", "D", "D", "L"],
+      ["I", "R", "R", "K", null, null],
+      ["I", null, null, "K", "E", "E"],
+      ["F", "F", "G", "G", "G", null],
+      ["H", "H", null, null, null, null]
+    ]
+  },
+  {
+    "name": 430,
+    "exit": [3, 6],
+    "min_num_moves": 20,
+    "board": [
+      ["G", null, "J", "B", "B", "B"],
+      ["G", null, "J", "K", null, "L"],
+      ["H", "R", "R", "K", null, "L"],
+      ["H", "C", "C", "C", null, "L"],
+      ["H", "I", "D", "D", null, null],
+      [null, "I", "E", "E", "F", "F"]
+    ]
+  },
+  {
+    "name": 431,
+    "exit": [3, 6],
+    "min_num_moves": 20,
+    "board": [
+      [null, "B", "B", "C", "C", "C"],
+      [null, "G", null, null, null, "J"],
+      [null, "G", "R", "R", "I", "J"],
+      ["D", "D", "D", null, "I", "J"],
+      [null, null, "H", "E", "E", "E"],
+      [null, null, "H", "F", "F", "F"]
+    ]
+  },
+  {
+    "name": 432,
+    "exit": [3, 6],
+    "min_num_moves": 20,
+    "board": [
+      [null, "F", "B", "B", "B", "L"],
+      [null, "F", "C", "C", "K", "L"],
+      ["R", "R", "H", "J", "K", "M"],
+      ["E", null, "H", "J", "K", "M"],
+      ["E", "G", "I", "J", null, "M"],
+      ["E", "G", "I", "D", "D", "D"]
+    ]
+  },
+  {
+    "name": 433,
+    "exit": [3, 6],
+    "min_num_moves": 20,
+    "board": [
+      ["B", "B", "B", null, "G", "I"],
+      [null, "E", null, null, "G", "I"],
+      [null, "E", "R", "R", "H", "I"],
+      [null, null, "F", null, "H", null],
+      [null, null, "F", "C", "C", null],
+      [null, null, null, null, "D", "D"]
+    ]
+  },
+  {
+    "name": 434,
+    "exit": [3, 6],
+    "min_num_moves": 20,
+    "board": [
+      ["H", "B", "B", "C", "C", "C"],
+      ["H", "D", "D", "D", null, "K"],
+      ["R", "R", null, null, null, "K"],
+      ["E", "E", "F", "F", null, "K"],
+      [null, null, "I", "J", "G", "G"],
+      [null, null, "I", "J", null, null]
+    ]
+  },
+  {
+    "name": 435,
+    "exit": [3, 6],
+    "min_num_moves": 20,
+    "board": [
+      [null, "B", "B", "H", "C", "C"],
+      [null, "D", "D", "H", null, null],
+      [null, "R", "R", "I", null, "J"],
+      ["E", "E", "E", "I", null, "J"],
+      [null, null, "G", "F", "F", "J"],
+      [null, null, "G", null, null, null]
+    ]
+  },
+  {
+    "name": 436,
+    "exit": [3, 6],
+    "min_num_moves": 20,
+    "board": [
+      [null, "B", "B", null, "H", null],
+      ["C", "C", "C", null, "H", "I"],
+      ["R", "R", "G", null, "H", "I"],
+      [null, null, "G", null, "D", "D"],
+      ["E", "E", "E", null, null, "J"],
+      [null, "F", "F", null, null, "J"]
+    ]
+  },
+  {
+    "name": 437,
+    "exit": [3, 6],
+    "min_num_moves": 20,
+    "board": [
+      ["B", "B", "B", "K", "C", "C"],
+      ["G", "I", null, "K", "L", null],
+      ["G", "I", "R", "R", "L", null],
+      ["H", "I", "J", null, "D", "D"],
+      ["H", null, "J", null, null, "M"],
+      ["H", "E", "E", "F", "F", "M"]
+    ]
+  },
+  {
+    "name": 438,
+    "exit": [3, 6],
+    "min_num_moves": 20,
+    "board": [
+      ["G", "B", "B", null, "J", null],
+      ["G", null, "I", null, "J", "K"],
+      ["R", "R", "I", null, "J", "K"],
+      ["C", "C", "C", null, null, "L"],
+      [null, "H", "D", "D", null, "L"],
+      [null, "H", "E", "E", "F", "F"]
+    ]
+  },
+  {
+    "name": 439,
+    "exit": [3, 6],
+    "min_num_moves": 20,
+    "board": [
+      ["F", "B", "B", null, "K", "L"],
+      ["F", "H", null, null, "K", "L"],
+      ["G", "H", "R", "R", null, "M"],
+      ["G", "C", "C", "J", null, "M"],
+      ["D", "D", "I", "J", null, "M"],
+      [null, null, "I", "J", "E", "E"]
+    ]
+  },
+  {
+    "name": 440,
+    "exit": [3, 6],
+    "min_num_moves": 20,
+    "board": [
+      ["F", "B", "B", "I", "K", "L"],
+      ["F", null, null, "I", "K", "L"],
+      ["G", "R", "R", null, null, "L"],
+      ["G", null, "H", "J", null, null],
+      ["G", null, "H", "J", "C", "C"],
+      ["D", "D", "E", "E", "E", null]
+    ]
+  },
+  {
+    "name": 441,
+    "exit": [3, 6],
+    "min_num_moves": 20,
+    "board": [
+      ["B", "B", "C", "C", null, "M"],
+      ["J", "D", "D", "E", "E", "M"],
+      ["J", "R", "R", "L", null, "M"],
+      ["J", null, null, "L", "F", "F"],
+      ["G", "G", "K", "H", "H", null],
+      [null, null, "K", "I", "I", "I"]
+    ]
+  },
+  {
+    "name": 442,
+    "exit": [3, 6],
+    "min_num_moves": 20,
+    "board": [
+      ["H", "B", "B", "B", "C", "C"],
+      ["H", null, "J", "K", null, null],
+      ["R", "R", "J", "K", null, "M"],
+      ["I", "D", "D", "E", "E", "M"],
+      ["I", null, null, "L", null, null],
+      ["F", "F", "F", "L", "G", "G"]
+    ]
+  }
+]
