@@ -18,6 +18,7 @@ body {
     background: radial-gradient(circle at 20% 20%, #fff6e8 0, #f6f4ed 35%, #f0efe7 100%);
     color: var(--text);
     overscroll-behavior-y: contain;
+    overflow-x: hidden;
 }
 
 #app {
@@ -156,7 +157,10 @@ button:hover:not(:disabled) {
     border: 1px solid var(--line);
     border-radius: 12px;
     overflow: hidden;
+    display: flex;
+    justify-content: center;
 }
+
 
 .footer {
     margin-top: 8px;

@@ -264,17 +264,27 @@ View.prototype.computeScale = function() {
     return Math.min(xscale, yscale);
 };
 
-View.prototype.canvasHeight = function() {
+View.prototype.canvasSize = function() {
+    var app = document.getElementById('app');
+    var viewEl = document.getElementById('view');
     var header = document.getElementById('hud');
     var footer = document.querySelector('.footer');
-    var height = this.p5 ? this.p5.windowHeight : window.innerHeight;
+    var width = viewEl ? viewEl.clientWidth : (app ? app.clientWidth : (this.p5 ? this.p5.windowWidth : window.innerWidth));
+    var availableHeight = window.innerHeight;
+    if (viewEl) {
+        var rect = viewEl.getBoundingClientRect();
+        availableHeight = window.innerHeight - rect.top - 8; // 8px breathing room
+    }
     if (header) {
-        height -= header.offsetHeight;
+        availableHeight -= header.offsetHeight;
     }
     if (footer) {
-        height -= footer.offsetHeight;
+        availableHeight -= footer.offsetHeight;
     }
-    return Math.max(240, height - CanvasPadding);
+    availableHeight = Math.max(240, availableHeight - CanvasPadding);
+    var side = Math.min(width, availableHeight);
+    side = Math.max(240, side);
+    return { width: side, height: side };
 };
 
 View.prototype.mouseVector = function() {
@@ -416,12 +426,14 @@ View.prototype.changed = function() {
 
 View.prototype.setup = function() {
     var p5 = this.p5;
-    p5.createCanvas(p5.windowWidth, this.canvasHeight());
+    var size = this.canvasSize();
+    p5.createCanvas(size.width, size.height);
 };
 
 View.prototype.windowResized = function() {
     var p5 = this.p5;
-    p5.resizeCanvas(p5.windowWidth, this.canvasHeight());
+    var size = this.canvasSize();
+    p5.resizeCanvas(size.width, size.height);
 };
 
 View.prototype.draw = function() {
